@@ -1,6 +1,6 @@
 # AI stack icons
 
-Uniform 104 × 84 tiles, 34 px logo area, monochrome color and shared label typography. Official logo shapes and aspect ratios are preserved.
+Horizontal badges matching the Python Shields `for-the-badge` style: 28 px tall, square corners, #0D1117 background, inline brand logo and uppercase label. Width follows the name. Official logo shapes and aspect ratios are preserved.
 
 ## Sources
 

@@ -99,16 +99,16 @@ Criei a ELLOAI e o CEPI Conecta, cuidando também do deploy e da manutenção. *
 <p><sub><strong>IA & DADOS</strong></sub></p>
 
 <p>
-<img src="./assets/ai/agno.svg" width="104" height="84" alt="Agno" />
-<img src="./assets/ai/gemini.svg" width="104" height="84" alt="Gemini" />
-<img src="./assets/ai/openai.svg" width="104" height="84" alt="OpenAI" />
-<img src="./assets/ai/inngest.svg" width="104" height="84" alt="Inngest" />
+<img src="./assets/ai/agno.svg" height="28" alt="Agno" />
+<img src="./assets/ai/gemini.svg" height="28" alt="Gemini" />
+<img src="./assets/ai/openai.svg" height="28" alt="OpenAI" />
+<img src="./assets/ai/inngest.svg" height="28" alt="Inngest" />
 </p>
 <p>
-<img src="./assets/ai/langchain.svg" width="104" height="84" alt="LangChain" />
-<img src="./assets/ai/langgraph.svg" width="104" height="84" alt="LangGraph" />
-<img src="./assets/ai/crewai.svg" width="104" height="84" alt="CrewAI" />
-<img src="./assets/ai/pgvector.svg" width="104" height="84" alt="pgvector" />
+<img src="./assets/ai/langchain.svg" height="28" alt="LangChain" />
+<img src="./assets/ai/langgraph.svg" height="28" alt="LangGraph" />
+<img src="./assets/ai/crewai.svg" height="28" alt="CrewAI" />
+<img src="./assets/ai/pgvector.svg" height="28" alt="pgvector" />
 </p>
 
 <p><sub>CONHECIMENTO &amp; AGENTES</sub></p>
