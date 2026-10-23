@@ -98,8 +98,19 @@ I built ELLOAI and CEPI Conecta, including deployment and maintenance. **Open to
 
 <p><sub><strong>AI & DATA</strong></sub></p>
 
-![Agno](https://img.shields.io/badge/Agno-0D1117?style=for-the-badge&logoColor=A78BFA)
-![Gemini](https://img.shields.io/badge/Gemini-0D1117?style=for-the-badge&logo=googlegemini&logoColor=A78BFA)
+<p>
+<code>Agno</code> · <code>OpenAI SDK</code> · <code>Google GenAI SDK</code>
+</p>
+<p>
+<img src="./assets/ai/gemini.svg" alt="Gemini" />
+<img src="./assets/ai/langchain.svg" alt="LangChain" />
+<img src="./assets/ai/langgraph.svg" alt="LangGraph" />
+<img src="./assets/ai/crewai.svg" alt="CrewAI" />
+<img src="./assets/ai/pgvector.svg" alt="pgvector · PostgreSQL" />
+</p>
+<p><sub>KNOWLEDGE &amp; AGENT WORKFLOWS</sub></p>
+<p><code>Embeddings</code> · <code>RAG</code> · <code>Hybrid search</code> · <code>pg_trgm</code><br/><code>Tool calling</code> · <code>Conversation memory</code> · <code>Inngest</code></p>
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=38BDF8)
 ![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=FB7185)
 
@@ -137,6 +148,10 @@ I built ELLOAI and CEPI Conecta, including deployment and maintenance. **Open to
 **In practice:** Agno workflows, routing between specialized agents and PostgreSQL-backed memory in an earlier ELLOAI version.
 
 **Current architecture:** Google GenAI SDK, hybrid RAG and durable Inngest orchestration.
+
+**Knowledge:** embeddings and pgvector for semantic search, combined with `pg_trgm` for names and typos. Chunked indexing and history retrieval for conversation memory.
+
+**Execution:** tool calling, agent routing, human handoff and durable Inngest steps.
 
 </details>
 

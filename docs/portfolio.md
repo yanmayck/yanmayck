@@ -22,6 +22,7 @@ Na raiz do checkout existente, execute `python -m http.server 8765 --bind 127.0.
 A página tem apenas o header e o terminal. Projetos, tecnologias e links aparecem dentro do histórico. O visitante pode digitar ou clicar nos comandos sugeridos.
 
 - `help`, `sobre` / `about`, `projetos` / `projects`, `stack`, `contato` / `contact`.
+- `ia`, `ai`, `stack ia` ou `cat ai.txt` mostram frameworks, SDKs, embeddings, pgvector, RAG, busca híbrida, memória, ferramentas e orquestração. Logos locais com origem documentada em `assets/ai/README.md`.
 - `ls`, `pwd`, `cd elloai`, `cd cepi`, `cd ..`, `cd ~`.
 - `cat about.txt`, `cat stack.txt`, `cat README.md`.
 - Histórico com ↑/↓, sugestões ao digitar e autocomplete que alterna opções com Tab.
