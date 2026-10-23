@@ -91,38 +91,38 @@ I built ELLOAI and CEPI Conecta, including deployment and maintenance. **Open to
 
 <p><sub><strong>BACKEND & AUTOMATION</strong></sub></p>
 
-<img src="./assets/badges/python.svg" width="160" height="36" alt="Python" />
-<img src="./assets/badges/fastapi.svg" width="160" height="36" alt="FastAPI" />
-<img src="./assets/badges/nextdotjs.svg" width="160" height="36" alt="Next.js" />
-<img src="./assets/badges/selenium.svg" width="160" height="36" alt="Selenium" />
+<img src="./assets/stack/python-1aad31606e82.svg" width="160" height="36" alt="Python" />
+<img src="./assets/stack/fastapi-003e2160295e.svg" width="160" height="36" alt="FastAPI" />
+<img src="./assets/stack/nextdotjs-c41aee5c8d12.svg" width="160" height="36" alt="Next.js" />
+<img src="./assets/stack/selenium-c444f7eaa62e.svg" width="160" height="36" alt="Selenium" />
 
 <p><sub><strong>AI & DATA</strong></sub></p>
 
 <p>
-<img src="./assets/ai/agno.svg" width="160" height="36" alt="Agno" />
-<img src="./assets/ai/gemini.svg" width="160" height="36" alt="Gemini" />
-<img src="./assets/ai/openai.svg" width="160" height="36" alt="OpenAI" />
-<img src="./assets/ai/inngest.svg" width="160" height="36" alt="Inngest" />
+<img src="./assets/stack/agno-4d6f567b9f0d.svg" width="160" height="36" alt="Agno" />
+<img src="./assets/stack/gemini-5c6a226cc635.svg" width="160" height="36" alt="Gemini" />
+<img src="./assets/stack/openai-9fce97eea367.svg" width="160" height="36" alt="OpenAI" />
+<img src="./assets/stack/inngest-3fc177f21e8d.svg" width="160" height="36" alt="Inngest" />
 </p>
 <p>
-<img src="./assets/ai/langchain.svg" width="160" height="36" alt="LangChain" />
-<img src="./assets/ai/langgraph.svg" width="160" height="36" alt="LangGraph" />
-<img src="./assets/ai/crewai.svg" width="160" height="36" alt="CrewAI" />
-<img src="./assets/ai/pgvector.svg" width="160" height="36" alt="pgvector" />
+<img src="./assets/stack/langchain-a60c5f448969.svg" width="160" height="36" alt="LangChain" />
+<img src="./assets/stack/langgraph-dbf27c11d846.svg" width="160" height="36" alt="LangGraph" />
+<img src="./assets/stack/crewai-20f5a8f62907.svg" width="160" height="36" alt="CrewAI" />
+<img src="./assets/stack/pgvector-ef83f43dd2c4.svg" width="160" height="36" alt="pgvector" />
 </p>
 
 <p><sub>KNOWLEDGE &amp; AGENT WORKFLOWS</sub></p>
 <p><code>Embeddings</code> · <code>RAG</code> · <code>Hybrid search</code> · <code>pg_trgm</code><br/><code>Tool calling</code> · <code>Conversation memory</code> · <code>Inngest</code></p>
 
-<img src="./assets/badges/postgresql.svg" width="160" height="36" alt="PostgreSQL" />
-<img src="./assets/badges/redis.svg" width="160" height="36" alt="Redis" />
+<img src="./assets/stack/postgresql-cfee76d75f1c.svg" width="160" height="36" alt="PostgreSQL" />
+<img src="./assets/stack/redis-919dc7178bab.svg" width="160" height="36" alt="Redis" />
 
 <p><sub><strong>INFRA & DELIVERY</strong></sub></p>
 
-<img src="./assets/badges/docker.svg" width="160" height="36" alt="Docker" />
-<img src="./assets/badges/linux.svg" width="160" height="36" alt="Linux" />
-<img src="./assets/badges/googlecloud.svg" width="160" height="36" alt="Google Cloud" />
-<img src="./assets/badges/githubactions.svg" width="160" height="36" alt="GitHub Actions" />
+<img src="./assets/stack/docker-f3a8232ca25d.svg" width="160" height="36" alt="Docker" />
+<img src="./assets/stack/linux-2d11fcb913ad.svg" width="160" height="36" alt="Linux" />
+<img src="./assets/stack/googlecloud-1baedde167b6.svg" width="160" height="36" alt="Google Cloud" />
+<img src="./assets/stack/githubactions-ef8d667f2eb5.svg" width="160" height="36" alt="GitHub Actions" />
 
 <p><sub>Also in my toolbox: TypeScript · React · Tailwind · shadcn/ui · Flutter / Provider<br/>Currently learning: C++</sub></p>
 
