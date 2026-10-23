@@ -29,41 +29,56 @@ Estou no terceiro ano do ensino médio e pretendo cursar Ciência da Computaçã
 
 **Aberto a oportunidades em desenvolvimento de software**, de backend e IA a aplicações web e mobile. Tenho interesse em participar de equipes onde possa contribuir com o que já construí e continuar aprendendo.
 
-## 🛠️ `01` · Produtos que construí
+## Ideias que saíram do papel.
 
-### 🧠 ELLOAI
+<div align="center">
+<p>Dois produtos. Do primeiro código à operação em produção.</p>
+</div>
 
-**Uma atendente com IA para quem não precisa entender de IA.**
+<table>
+<tr>
+<td valign="top" width="50%">
+<p><sub>IA + WHATSAPP · EM PRODUÇÃO</sub></p>
+<h3>🧠 ELLOAI</h3>
+<p><strong>Seu negócio já tem uma história. A ELLOAI aprende com ela.</strong></p>
+<p>Atendente com IA, CRM e automações comerciais para WhatsApp. O Modo Aprendiz transforma conversas anteriores em conhecimento e configuração de atendimento.</p>
+<p><sub>Criei o produto, a identidade visual, a aplicação e a infraestrutura.</sub></p>
+<p><code>Next.js</code> <code>Python</code> <code>Gemini</code><br/><code>PostgreSQL</code> <code>Redis</code> <code>Inngest</code></p>
+<p><a href="https://elloai.com.br"><strong>Conheça o produto ↗</strong></a></p>
+</td>
+<td valign="top" width="50%">
+<p><sub>MOBILE + EDUCAÇÃO · GOOGLE PLAY</sub></p>
+<h3>📱 CEPI Conecta</h3>
+<p><strong>Menos informação espalhada. Mais escola conectada.</strong></p>
+<p>Avisos, turmas, calendário e comunicação com famílias em um aplicativo que construí para minha escola. Offline no app nativo e painel de gestão para computador.</p>
+<p><sub>Publicado no Google Play. Adoção integral pela escola planejada para 2027.</sub></p>
+<p><code>Flutter</code> <code>Dart</code> <code>SQLite</code><br/><code>Supabase</code> <code>PostgreSQL</code></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.cepiconecta.app"><strong>Ver no Google Play ↗</strong></a></p>
+</td>
+</tr>
+</table>
 
-Criei uma plataforma de atendimento e gestão comercial pelo WhatsApp, do produto e da identidade visual à implementação e infraestrutura. Está em produção e reúne atendimento, CRM, catálogo, campanhas e um copiloto de gestão.
-
-O **Modo Aprendiz** transforma históricos de conversas em conhecimento, perfis de clientes e sugestões de configuração do atendimento, incluindo o tom de voz da empresa.
+<details>
+<summary><strong>⚙️ Por dentro da engenharia · ELLOAI</strong></summary>
 
 - **IA com ações:** consulta conhecimento, coleta informações, registra vendas e movimenta oportunidades, com caminhos de aprovação e intervenção humana.
 - **Busca híbrida:** combina embeddings com busca aproximada de nomes usando PostgreSQL, pgvector e `pg_trgm`.
 - **Processamento durável:** orquestra tarefas entre TypeScript e Python com Inngest, com retomada após falhas e controle de concorrência.
 - **Operação:** débito atômico de créditos, traces de IA, Sentry e testes automatizados em TypeScript e Python.
 
-`TypeScript` `Next.js` `React` `Python` `Gemini` `Prisma` `PostgreSQL` `Redis` `Inngest` `Docker`
+</details>
 
-[**Conheça a ELLOAI ↗**](https://elloai.com.br)
-
-### 📱 CEPI Conecta
-
-**A comunicação da escola, organizada em um aplicativo.**
-
-Desenvolvi o aplicativo para o CEPI Osmundo Gonzaga Filho, conectando alunos, professores, responsáveis e administração. Publicado no Google Play, com adoção integral pela escola planejada para 2027.
+<details>
+<summary><strong>⚙️ Por dentro da engenharia · CEPI Conecta</strong></summary>
 
 - **Rotina escolar:** mural, avisos, turmas, calendário, horários e notificações.
 - **Famílias e gestão:** vínculo entre responsáveis e alunos, envio de justificativas e painel administrativo adaptado para computador.
 - **Uso offline no app nativo:** cache SQLite e fila persistente para reenviar operações quando a conexão retorna.
 - **Entrega:** testes de lógica e widgets, automação de builds Android e web e pipelines para migrações e funções de servidor.
 
-`Dart` `Flutter` `Provider` `SQLite` `Supabase` `PostgreSQL` `TypeScript` `GitHub Actions`
+</details>
 
-[**Ver no Google Play ↗**](https://play.google.com/store/apps/details?id=com.cepiconecta.app)
-
-## ⚡ `02` · Minha caixa de ferramentas
+## O que uso para construir
 
 <div align="center">
 
@@ -78,15 +93,16 @@ Desenvolvi o aplicativo para o CEPI Osmundo Gonzaga Filho, conectando alunos, pr
 </div>
 
 
-| Área | Tecnologias e práticas |
-| :--- | :--- |
-| Linguagens | **Python**, TypeScript, JavaScript e Dart · aprendendo C++ |
-| Web e mobile | Next.js, React e Flutter |
-| Dados e backend | PostgreSQL, Prisma, Supabase, Redis e SQLite |
-| IA aplicada | Gemini, RAG, embeddings, chamadas de ferramentas e orquestração durável |
-| Desenvolvimento e entrega | Linux, Git, Docker, testes automatizados e GitHub Actions |
+```text
+BASE       Python · TypeScript · Dart
+CRIAÇÃO    Next.js · React · Flutter
+DADOS      PostgreSQL · Prisma · Supabase · Redis · SQLite
+IA         RAG · embeddings · ferramentas · Inngest
+ENTREGA    Linux · Git · Docker · testes automatizados · CI/CD
+ESTUDANDO  C++
+```
 
-## 🔎 `03` · Mais código para explorar
+## Mais ideias, mais código
 
 | Projeto | Proposta | Stack |
 | :--- | :--- | :--- |
