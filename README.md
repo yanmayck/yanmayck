@@ -1,10 +1,9 @@
 <div align="center">
 
-<img width="100%" src="./assets/profile-header.svg" alt="Yan Mayck — Backend &amp; Applied AI" />
+<img width="100%" src="./assets/profile-header.gif" alt="Yan Mayck — Backend &amp; Applied AI" />
 
 **Desenvolvedor de software · Backend · IA aplicada**
 
-<a href="https://github.com/yanmayck"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=3000&amp;pause=1200&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Transformando+ideias+em+produtos.;Python+na+base.+Curiosidade+sempre.;Do+primeiro+commit+ao+deploy." alt="Da ideia à produção" /></a>
 
 
 [![English](https://img.shields.io/badge/Read_in-English-38BDF8?style=for-the-badge)](./README.en.md)
@@ -13,17 +12,7 @@
 
 </div>
 
-```console
-yan@dev:~$ whoami
-Desenvolvedor em Goiás, Brasil. Construo produtos do código ao deploy.
-
-yan@dev:~$ cat focus.txt
-Python como linguagem principal. IA que executa tarefas reais.
-Aplicações web e mobile. Testes, Linux, Docker e CI/CD.
-
-yan@dev:~$ cat learning.txt
-C++ · fundamentos de computação · próximo passo: Ciência da Computação
-```
+<img width="100%" src="./assets/terminal-pt.gif" alt="Terminal animado: Python, backend, IA aplicada e estudos de C++." />
 
 Estou no terceiro ano do ensino médio e pretendo cursar Ciência da Computação. Enquanto isso, desenvolvo e mantenho meus próprios produtos: uma plataforma de atendimento com IA e um aplicativo de comunicação escolar publicado no Google Play.
 

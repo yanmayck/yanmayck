@@ -1,10 +1,9 @@
 <div align="center">
 
-<img width="100%" src="./assets/profile-header.svg" alt="Yan Mayck — Backend &amp; Applied AI" />
+<img width="100%" src="./assets/profile-header.gif" alt="Yan Mayck — Backend &amp; Applied AI" />
 
 **Software Developer · Backend · Applied AI**
 
-<a href="https://github.com/yanmayck"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=3000&amp;pause=1200&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+ideas+into+real+products.;Python+first.+Curiosity+always.;From+the+first+commit+to+production." alt="From idea to production" /></a>
 
 
 [![Português](https://img.shields.io/badge/Ler_em-Português-38BDF8?style=for-the-badge)](./README.md)
@@ -13,17 +12,7 @@
 
 </div>
 
-```console
-yan@dev:~$ whoami
-Developer based in Goiás, Brazil. I build products from code to deployment.
-
-yan@dev:~$ cat focus.txt
-Python first. AI that performs real tasks.
-Web and mobile applications. Tests, Linux, Docker and CI/CD.
-
-yan@dev:~$ cat learning.txt
-C++ · computer science fundamentals · next step: a Computer Science degree
-```
+<img width="100%" src="./assets/terminal-en.gif" alt="Animated terminal: Python, backend, applied AI and learning C++." />
 
 I'm in my final year of high school and plan to study Computer Science. In the meantime, I build and maintain my own products: an AI customer service platform and a school communication app published on Google Play.
 
