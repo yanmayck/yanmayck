@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:312E81,100:06B6D4&amp;height=210&amp;section=header&amp;text=YAN%20MAYCK&amp;fontSize=54&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=BACKEND%20%2F%20AI%20%2F%20WEB%20%2F%20MOBILE&amp;descSize=15&amp;descAlignY=60" alt="Yan Mayck — Backend, AI, Web, Mobile" />
 
-**Desenvolvedor de software · Backend · IA aplicada · Full stack · Mobile**
+**Desenvolvedor de software · Backend · IA aplicada**
 
 <a href="https://github.com/yanmayck"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=3000&amp;pause=1200&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Transformando+ideias+em+produtos.;Python+na+base.+Curiosidade+sempre.;Do+primeiro+commit+ao+deploy." alt="Da ideia à produção" /></a>
 
@@ -27,7 +27,7 @@ C++ · fundamentos de computação · próximo passo: Ciência da Computação
 
 Estou no terceiro ano do ensino médio e pretendo cursar Ciência da Computação. Enquanto isso, desenvolvo e mantenho meus próprios produtos: uma plataforma de atendimento com IA e um aplicativo de comunicação escolar publicado no Google Play.
 
-**Aberto a oportunidades em desenvolvimento de software**, de backend e IA a aplicações web e mobile. Tenho interesse em participar de equipes onde possa contribuir com o que já construí e continuar aprendendo.
+**Aberto a oportunidades em desenvolvimento de software**, com foco em backend e IA aplicada e experiência na entrega de produtos web e mobile. Tenho interesse em participar de equipes onde possa contribuir com o que já construí e continuar aprendendo.
 
 ## Ideias que saíram do papel.
 
@@ -109,10 +109,11 @@ ESTUDANDO  C++
 
 - **Backend Python:** FastAPI, FastAPI Users, Pydantic e SQLAlchemy. A ELLOAI começou com backend em FastAPI antes de eu migrar a aplicação principal para Next.js. Também já trabalhei com Django e Flask.
 - **Aplicações web:** Route Handlers, Server Actions, autenticação e webhooks no Next.js; interfaces React com Tailwind CSS e shadcn/ui.
-- **Agentes e IA:** workflows no Agno, roteamento entre agentes especializados e memória em PostgreSQL. Na arquitetura atual da ELLOAI, uso o SDK Google GenAI e Inngest.
+- **Agentes e IA:** experiência com LangChain, LangGraph, CrewAI e SDK da OpenAI. Workflows no Agno, roteamento entre agentes especializados e memória em PostgreSQL. Na arquitetura atual da ELLOAI, uso o SDK Google GenAI e Inngest.
 - **Automação:** Selenium para navegador e PyAutoGUI para desktop.
 - **Mobile:** Flutter com Provider, aplicado no CEPI Conecta.
-- **Infraestrutura:** Docker Compose, Nginx como proxy reverso, Linux e automação de entrega.
+- **Infraestrutura e cloud:** Docker Compose, Nginx como proxy reverso, Linux, Cloud Run, Compute Engine e Cloud Storage. Pipelines de CI/CD que geram builds e publicam aplicações.
+- **Como trabalho:** desenvolvimento com apoio de IA, com foco maior em backend, integração de IA e entrega; minha experiência em frontend e mobile vem da construção dos meus produtos.
 
 </details>
 
