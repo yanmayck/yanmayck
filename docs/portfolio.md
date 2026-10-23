@@ -24,7 +24,12 @@ A página tem apenas o header e o terminal. Projetos, tecnologias e links aparec
 - `help`, `sobre` / `about`, `projetos` / `projects`, `stack`, `contato` / `contact`.
 - `ls`, `pwd`, `cd elloai`, `cd cepi`, `cd ..`, `cd ~`.
 - `cat about.txt`, `cat stack.txt`, `cat README.md`.
-- Histórico com ↑/↓, autocomplete com Tab, limpeza com `clear` ou Ctrl+L.
+- Histórico com ↑/↓, sugestões ao digitar e autocomplete que alterna opções com Tab.
+- `tree` mostra os arquivos; `history` lista os comandos da sessão.
+- `theme green`, `theme amber`, `theme light` e `theme default` trocam as cores.
+- Abas para início, projetos e stack; botão de tela cheia.
+- Limpeza com `clear` ou Ctrl+L; Ctrl+C cancela a entrada.
+- `cat stack.txt` dentro de um projeto mostra a stack específica dele.
 - Alternância PT/EN, inclusive dentro de um projeto.
 - Sem dependências, execução de shell, requisições feitas pelo terminal ou coleta de dados.
 - Layout responsivo e animações que respeitam `prefers-reduced-motion`.
@@ -32,3 +37,5 @@ A página tem apenas o header e o terminal. Projetos, tecnologias e links aparec
 ## Validação realizada
 
 Chromium/Playwright: navegação clicável, diretórios e prompt, conteúdo dos dois projetos, comandos e aliases, histórico, autocomplete, troca de idioma dentro de um projeto, limpeza por comando e Ctrl+L, entrada de texto sem execução de HTML, largura de 390 px sem rolagem horizontal e preferência de movimento reduzido. Nenhum erro JavaScript observado. Os testes de navegador foram executados nesta sessão; o deploy público ainda precisa ser confirmado.
+
+Validação adicional: sugestões clicáveis, autocomplete cíclico, temas e tratamento de tema inválido, árvore de arquivos, histórico, Ctrl+C, tela cheia e retorno, abas, `pwd` no diretório de projetos e leitura da stack local de cada projeto. Resultados extensos abrem no começo da resposta.

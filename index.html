@@ -12,10 +12,12 @@
 <main>
 <div class="intro"><span id="intro-role">python / backend / ia</span><span id="intro-hint">um portfólio pelo terminal</span></div>
 <section class="terminal" aria-label="Portfólio em terminal / Terminal portfolio">
-<div class="terminal-bar"><div class="dots" aria-hidden="true"><i></i><i></i><i></i></div><span id="terminal-title">yan@portfolio:~</span><button id="reset" type="button" aria-label="Reiniciar terminal / Reset terminal">↺</button></div>
+<div class="terminal-bar"><div class="dots" aria-hidden="true"><i></i><i></i><i></i></div><span id="terminal-title">yan@portfolio:~</span><div class="window-actions"><button id="fullscreen" type="button" aria-label="Tela cheia / Full screen" title="Tela cheia / Full screen">⤢</button><button id="reset" type="button" aria-label="Reiniciar terminal / Reset terminal" title="Reiniciar / Reset">↺</button></div></div>
+<div class="terminal-tabs" aria-label="Atalhos do terminal / Terminal shortcuts"><button type="button" data-command="cd ~" data-tab="home">~/</button><button type="button" data-command="projetos" data-tab="projetos">projects/</button><button type="button" data-command="stack" data-tab="stack">stack.txt</button><span id="session-label">sessão local</span></div>
 <div class="terminal-screen" id="terminal-screen" tabindex="0" aria-label="Histórico do terminal / Terminal history"><div id="terminal-output" role="log" aria-live="polite" aria-relevant="additions"></div></div>
+<div id="suggestions" class="suggestions" hidden aria-label="Sugestões de comandos / Command suggestions"></div>
 <form id="terminal-form"><label for="command"><span class="user">yan</span><span class="prompt-path" id="prompt-path">:~</span><span class="arrow">❯</span></label><input id="command" name="command" autocomplete="off" autocapitalize="none" spellcheck="false" aria-label="Digite um comando / Enter a command" maxlength="120" placeholder="help"><button type="submit" id="run" aria-label="Executar / Run">↵</button></form>
-<div class="terminal-bottom"><span id="keyboard-hint">tab completa · ↑↓ histórico</span><span><span class="local-dot"></span><span id="local-label">local, sem servidor</span></span></div>
+<div class="terminal-bottom"><span id="keyboard-hint">tab completa · ↑↓ histórico</span><span><span class="local-dot"></span><span id="local-label">local, sem servidor</span><span class="command-count" id="command-count">0 cmd</span></span></div>
 </section>
 <div class="outside-hint"><span id="outside-hint">Pode digitar ou clicar nos comandos.</span><a href="https://github.com/yanmayck" target="_blank" rel="noopener">github ↗</a></div>
 <noscript>Ative JavaScript para navegar pelo terminal. / Enable JavaScript to explore. <a href="https://github.com/yanmayck">GitHub ↗</a></noscript>
