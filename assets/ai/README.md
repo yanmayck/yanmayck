@@ -1,6 +1,6 @@
 # AI stack icons
 
-Horizontal badges matching the Python Shields `for-the-badge` style: 28 px tall, square corners, #0D1117 background, inline brand logo and uppercase label. Width follows the name. Official logo shapes and aspect ratios are preserved.
+Fixed 160 × 36 horizontal badges, matching the other stack badges. Shared background, logo area, font and label position. Logos preserve their aspect ratio; neither text nor artwork is stretched.
 
 ## Sources
 
