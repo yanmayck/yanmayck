@@ -16,15 +16,20 @@
 <p><a href="#projects">🚀 Products</a> &nbsp; / &nbsp; <a href="#toolbox">🧩 Technologies</a> &nbsp; / &nbsp; <a href="#code">⌨️ Public code</a></p>
 </div>
 
-<img width="100%" src="./assets/terminal-en.gif" alt="Animated terminal: Python, backend, applied AI and learning C++." />
+<div align="center">
+
+<a href="https://yanmayck.github.io/yanmayck/"><img width="100%" src="./assets/terminal-preview-en.gif" alt="Terminal preview: introduction, projects and ELLOAI. Click to open the website." /></a>
+
+<p><a href="https://yanmayck.github.io/yanmayck/"><strong>❯ Open my terminal ↗</strong></a></p>
+<p><sub>Type a command or click to explore. <code>help</code> · <code>cd elloai</code> · <code>tree</code> · <code>theme green</code></sub></p>
+
+</div>
 
 I'm Yan, from Goiás, Brazil. Python is my main language, and I like backend development and working with AI agents. I'm in my final year of high school and plan to study Computer Science.
 
 I built ELLOAI and CEPI Conecta, including deployment and maintenance. **Open to software development opportunities.**
 
 <img width="100%" src="./assets/divider.svg" alt="" />
-
-[Website · source code](./index.html)
 
 <a id="projects"></a>
 
