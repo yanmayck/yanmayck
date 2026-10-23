@@ -42,6 +42,8 @@ I'm in my final year of high school and plan to study Computer Science. In the m
 
 <img width="100%" src="./assets/divider.svg" alt="" />
 
+> **Interactive edition:** project filters, engineering panels and a working terminal simulation. [Explore the source](./index.html) · [GitHub Pages setup](./docs/portfolio.md).
+
 <a id="projects"></a>
 
 ## Built. Shipped. Maintained.

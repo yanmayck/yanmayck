@@ -42,6 +42,8 @@ Estou no terceiro ano do ensino médio e pretendo cursar Ciência da Computaçã
 
 <img width="100%" src="./assets/divider.svg" alt="" />
 
+> **Versão interativa:** filtros de projetos, painéis de engenharia e um terminal que aceita comandos. [Ver código do site](./index.html) · [Publicar no GitHub Pages](./docs/portfolio.md).
+
 <a id="projects"></a>
 
 ## Ideias que saíram do papel.
