@@ -39,7 +39,7 @@ Estou no terceiro ano do ensino médio e pretendo cursar Ciência da Computaçã
 <tr>
 <td valign="top" width="50%">
 <p><sub>IA + WHATSAPP · EM PRODUÇÃO</sub></p>
-<p><a href="https://elloai.com.br"><img src="./assets/elloai-logo.svg" width="88" height="88" alt="ELLOAI" /></a></p>
+<p><a href="https://elloai.com.br"><img src="./assets/elloai-logo.svg" width="160" height="160" alt="ELLOAI" /></a></p>
 <h3>ELLOAI</h3>
 <p><strong>Seu negócio já tem uma história. A ELLOAI aprende com ela.</strong></p>
 <p>Atendente com IA, CRM e automações comerciais para WhatsApp. O Modo Aprendiz transforma conversas anteriores em conhecimento e configuração de atendimento.</p>
@@ -49,7 +49,8 @@ Estou no terceiro ano do ensino médio e pretendo cursar Ciência da Computaçã
 </td>
 <td valign="top" width="50%">
 <p><sub>MOBILE + EDUCAÇÃO · GOOGLE PLAY</sub></p>
-<h3>📱 CEPI Conecta</h3>
+<p><a href="https://play.google.com/store/apps/details?id=com.cepiconecta.app"><img src="./assets/cepi-conecta-astronautas.jpg" width="160" height="160" alt="Astronautas sob a bandeira de Goiás" /></a></p>
+<h3>CEPI Conecta</h3>
 <p><strong>Menos informação espalhada. Mais escola conectada.</strong></p>
 <p>Avisos, turmas, calendário e comunicação com famílias em um aplicativo que construí para minha escola. Offline no app nativo e painel de gestão para computador.</p>
 <p><sub>Publicado no Google Play. Adoção integral pela escola planejada para 2027.</sub></p>
