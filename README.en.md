@@ -99,15 +99,18 @@ I built ELLOAI and CEPI Conecta, including deployment and maintenance. **Open to
 <p><sub><strong>AI & DATA</strong></sub></p>
 
 <p>
-<code>Agno</code> · <code>OpenAI SDK</code> · <code>Google GenAI SDK</code>
+<img src="./assets/ai/agno.svg" width="104" height="84" alt="Agno" />
+<img src="./assets/ai/gemini.svg" width="104" height="84" alt="Gemini" />
+<img src="./assets/ai/openai.svg" width="104" height="84" alt="OpenAI" />
+<img src="./assets/ai/inngest.svg" width="104" height="84" alt="Inngest" />
 </p>
 <p>
-<img src="./assets/ai/gemini.svg" alt="Gemini" />
-<img src="./assets/ai/langchain.svg" alt="LangChain" />
-<img src="./assets/ai/langgraph.svg" alt="LangGraph" />
-<img src="./assets/ai/crewai.svg" alt="CrewAI" />
-<img src="./assets/ai/pgvector.svg" alt="pgvector · PostgreSQL" />
+<img src="./assets/ai/langchain.svg" width="104" height="84" alt="LangChain" />
+<img src="./assets/ai/langgraph.svg" width="104" height="84" alt="LangGraph" />
+<img src="./assets/ai/crewai.svg" width="104" height="84" alt="CrewAI" />
+<img src="./assets/ai/pgvector.svg" width="104" height="84" alt="pgvector" />
 </p>
+
 <p><sub>KNOWLEDGE &amp; AGENT WORKFLOWS</sub></p>
 <p><code>Embeddings</code> · <code>RAG</code> · <code>Hybrid search</code> · <code>pg_trgm</code><br/><code>Tool calling</code> · <code>Conversation memory</code> · <code>Inngest</code></p>
 
