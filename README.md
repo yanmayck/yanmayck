@@ -32,6 +32,7 @@ Estou no terceiro ano do ensino médio e pretendo cursar Ciência da Computaçã
 <p><sub>● EM PRODUÇÃO &nbsp; / &nbsp; IA + WHATSAPP</sub></p>
 <p><a href="https://elloai.com.br"><img src="./assets/elloai-logo.svg" width="180" height="180" alt="ELLOAI" /></a></p>
 <h3>ELLOAI</h3>
+<p><img width="100%" src="./assets/elloai-flow.gif" alt="WhatsApp, IA, CRM e intervenção humana" /></p>
 <p><strong>Seu negócio já tem uma história. A ELLOAI aprende com ela.</strong></p>
 <p>Atendente com IA, CRM e automações comerciais para WhatsApp. O Modo Aprendiz transforma conversas anteriores em conhecimento e configuração de atendimento.</p>
 <p><sub>Criei o produto, a identidade visual, a aplicação e a infraestrutura.</sub></p>
@@ -42,6 +43,7 @@ Estou no terceiro ano do ensino médio e pretendo cursar Ciência da Computaçã
 <p><sub>● GOOGLE PLAY &nbsp; / &nbsp; MOBILE + EDUCAÇÃO</sub></p>
 <p><a href="https://play.google.com/store/apps/details?id=com.cepiconecta.app"><img src="./assets/cepi-conecta-astronautas.jpg" width="180" height="180" alt="Astronautas sob a bandeira de Goiás" /></a></p>
 <h3>CEPI Conecta</h3>
+<p><img width="100%" src="./assets/cepi-flow.gif" alt="Aplicativo, SQLite, sincronização e nuvem" /></p>
 <p><strong>Menos informação espalhada. Mais escola conectada.</strong></p>
 <p>Avisos, turmas, calendário e comunicação com famílias em um aplicativo que construí para minha escola. Offline no app nativo e painel de gestão para computador.</p>
 <p><sub>Publicado no Google Play. Adoção integral pela escola planejada para 2027.</sub></p>
@@ -74,6 +76,8 @@ Estou no terceiro ano do ensino médio e pretendo cursar Ciência da Computaçã
 <img width="100%" src="./assets/divider.svg" alt="" />
 
 ## O que uso para construir
+
+<img width="100%" src="./assets/stack-motion.gif" alt="Python · Next.js · Agno · PostgreSQL · Docker · Cloud" />
 
 <div align="center">
 
@@ -142,7 +146,7 @@ Parte do meu trabalho tem código privado. Posso conversar sobre arquitetura, de
 
 <div align="center">
 
-**Da ideia ao deploy, gosto de entender e construir o caminho inteiro.**
+<img width="100%" src="./assets/footer-pt.gif" alt="Criar, publicar, aprender, repetir." />
 
 [Explore meus repositórios ↗](https://github.com/yanmayck?tab=repositories)
 

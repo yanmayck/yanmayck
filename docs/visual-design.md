@@ -12,3 +12,7 @@ References consulted:
 - [Abhishek Naidu profile template](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/abhisheknaiidu.md): animated developer imagery alongside profile content.
 
 These references informed the motion direction; no third-party animation assets were copied.
+
+## Motion throughout the page
+
+`python scripts/generate_section_motion.py` generates the two project diagrams (6-second loops), the technology strip (6 seconds), and localized closing banners (7 seconds). All are original local GIFs. Project diagrams illustrate capabilities and are not live execution traces. Logos and the original astronaut artwork are preserved unchanged.

@@ -32,6 +32,7 @@ I'm in my final year of high school and plan to study Computer Science. In the m
 <p><sub>● IN PRODUCTION &nbsp; / &nbsp; AI + WHATSAPP</sub></p>
 <p><a href="https://elloai.com.br"><img src="./assets/elloai-logo.svg" width="180" height="180" alt="ELLOAI" /></a></p>
 <h3>ELLOAI</h3>
+<p><img width="100%" src="./assets/elloai-flow.gif" alt="WhatsApp, AI, CRM and human handoff" /></p>
 <p><strong>Your business already has a story. ELLOAI learns from it.</strong></p>
 <p>An AI assistant, CRM and business automations for WhatsApp. Learning Mode turns previous conversations into knowledge and service configuration.</p>
 <p><sub>I built the product, visual identity, application and infrastructure.</sub></p>
@@ -42,6 +43,7 @@ I'm in my final year of high school and plan to study Computer Science. In the m
 <p><sub>● GOOGLE PLAY &nbsp; / &nbsp; MOBILE + EDUCATION</sub></p>
 <p><a href="https://play.google.com/store/apps/details?id=com.cepiconecta.app"><img src="./assets/cepi-conecta-astronautas.jpg" width="180" height="180" alt="Astronauts beneath the flag of Goiás" /></a></p>
 <h3>CEPI Conecta</h3>
+<p><img width="100%" src="./assets/cepi-flow.gif" alt="App, SQLite, synchronization and cloud" /></p>
 <p><strong>Less scattered information. A more connected school.</strong></p>
 <p>Announcements, classes, calendars and family communication in an app I built for my school. Native offline support and a desktop administration panel.</p>
 <p><sub>Published on Google Play. Full school adoption planned for 2027.</sub></p>
@@ -74,6 +76,8 @@ I'm in my final year of high school and plan to study Computer Science. In the m
 <img width="100%" src="./assets/divider.svg" alt="" />
 
 ## What I build with
+
+<img width="100%" src="./assets/stack-motion.gif" alt="Python · Next.js · Agno · PostgreSQL · Docker · Cloud" />
 
 <div align="center">
 
@@ -142,7 +146,7 @@ Some of my work has private source code. I'm happy to discuss architecture, tech
 
 <div align="center">
 
-**From idea to deployment, I like understanding and building the whole path.**
+<img width="100%" src="./assets/footer-en.gif" alt="Build, ship, learn, repeat." />
 
 [Explore my repositories ↗](https://github.com/yanmayck?tab=repositories)
 
