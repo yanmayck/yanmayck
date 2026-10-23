@@ -1,72 +1,108 @@
-# Hey, I'm Yan Mayck 👋
+<div align="center">
 
-### Software Developer · Full-Stack · Mobile · AI
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:312E81,100:06B6D4&amp;height=210&amp;section=header&amp;text=YAN%20MAYCK&amp;fontSize=54&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=BACKEND%20%2F%20AI%20%2F%20WEB%20%2F%20MOBILE&amp;descSize=15&amp;descAlignY=60" alt="Yan Mayck — Backend, AI, Web, Mobile" />
 
-**I like building software that solves real problems — and gets used by real people.**
+**Desenvolvedor de software · Backend · IA aplicada · Full stack · Mobile**
 
-[![Open to Internships](https://img.shields.io/badge/Open%20to-Software%20Engineering%20Internships-2ea44f?style=for-the-badge)](https://github.com/yanmayck)
-![Based in Brazil](https://img.shields.io/badge/Based%20in-Brazil-0969da?style=for-the-badge)
+<a href="https://github.com/yanmayck"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=3000&amp;pause=1200&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Transformando+ideias+em+produtos.;Python+na+base.+Curiosidade+sempre.;Do+primeiro+commit+ao+deploy." alt="Da ideia à produção" /></a>
 
 
----
+[![English](https://img.shields.io/badge/Read_in-English-38BDF8?style=for-the-badge)](./README.en.md)
+[![ELLOAI](https://img.shields.io/badge/Conheça-ELLOAI-A78BFA?style=for-the-badge)](https://elloai.com.br)
+[![CEPI Conecta](https://img.shields.io/badge/Google_Play-CEPI_Conecta-34D399?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.cepiconecta.app)
 
-## About me
+</div>
 
-I'm a developer from **Goiás, Brazil**, with a strong interest in backend engineering, mobile applications, and applied AI. I enjoy working across the stack, from designing APIs and data models to shipping interfaces that people can actually use.
+```console
+yan@dev:~$ whoami
+Desenvolvedor em Goiás, Brasil. Construo produtos do código ao deploy.
 
-- 📱 **Created CEPI Conecta**, a school mobile app published on Google Play and used by my school.
-- 🧠 **Founder of ELLOAI**, where I explore AI-powered customer communication and business automation.
-- 🛠️ I build with **TypeScript, Python, Flutter, PostgreSQL, and Docker**.
-- 🎯 **Looking for a software engineering internship** where I can contribute, learn from experienced engineers, and keep shipping meaningful products.
+yan@dev:~$ cat focus.txt
+Python como linguagem principal. IA que executa tarefas reais.
+Aplicações web e mobile. Testes, Linux, Docker e CI/CD.
 
-> My favorite kind of project isn't just a nice demo. It's something that addresses a real problem.
+yan@dev:~$ cat learning.txt
+C++ · fundamentos de computação · próximo passo: Ciência da Computação
+```
 
-## Selected projects
+Estou no terceiro ano do ensino médio e pretendo cursar Ciência da Computação. Enquanto isso, desenvolvo e mantenho meus próprios produtos: uma plataforma de atendimento com IA e um aplicativo de comunicação escolar publicado no Google Play.
 
-| Project | What I built | Tech & availability |
+**Aberto a oportunidades em desenvolvimento de software**, de backend e IA a aplicações web e mobile. Tenho interesse em participar de equipes onde possa contribuir com o que já construí e continuar aprendendo.
+
+## 🛠️ `01` · Produtos que construí
+
+### 🧠 ELLOAI
+
+**Uma atendente com IA para quem não precisa entender de IA.**
+
+Criei uma plataforma de atendimento e gestão comercial pelo WhatsApp, do produto e da identidade visual à implementação e infraestrutura. Está em produção e reúne atendimento, CRM, catálogo, campanhas e um copiloto de gestão.
+
+O **Modo Aprendiz** transforma históricos de conversas em conhecimento, perfis de clientes e sugestões de configuração do atendimento, incluindo o tom de voz da empresa.
+
+- **IA com ações:** consulta conhecimento, coleta informações, registra vendas e movimenta oportunidades, com caminhos de aprovação e intervenção humana.
+- **Busca híbrida:** combina embeddings com busca aproximada de nomes usando PostgreSQL, pgvector e `pg_trgm`.
+- **Processamento durável:** orquestra tarefas entre TypeScript e Python com Inngest, com retomada após falhas e controle de concorrência.
+- **Operação:** débito atômico de créditos, traces de IA, Sentry e testes automatizados em TypeScript e Python.
+
+`TypeScript` `Next.js` `React` `Python` `Gemini` `Prisma` `PostgreSQL` `Redis` `Inngest` `Docker`
+
+[**Conheça a ELLOAI ↗**](https://elloai.com.br)
+
+### 📱 CEPI Conecta
+
+**A comunicação da escola, organizada em um aplicativo.**
+
+Desenvolvi o aplicativo para o CEPI Osmundo Gonzaga Filho, conectando alunos, professores, responsáveis e administração. Publicado no Google Play, com adoção integral pela escola planejada para 2027.
+
+- **Rotina escolar:** mural, avisos, turmas, calendário, horários e notificações.
+- **Famílias e gestão:** vínculo entre responsáveis e alunos, envio de justificativas e painel administrativo adaptado para computador.
+- **Uso offline no app nativo:** cache SQLite e fila persistente para reenviar operações quando a conexão retorna.
+- **Entrega:** testes de lógica e widgets, automação de builds Android e web e pipelines para migrações e funções de servidor.
+
+`Dart` `Flutter` `Provider` `SQLite` `Supabase` `PostgreSQL` `TypeScript` `GitHub Actions`
+
+[**Ver no Google Play ↗**](https://play.google.com/store/apps/details?id=com.cepiconecta.app)
+
+## ⚡ `02` · Minha caixa de ferramentas
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=38BDF8)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=38BDF8)
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=38BDF8)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=A78BFA)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=38BDF8)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white)
+
+</div>
+
+
+| Área | Tecnologias e práticas |
+| :--- | :--- |
+| Linguagens | **Python**, TypeScript, JavaScript e Dart · aprendendo C++ |
+| Web e mobile | Next.js, React e Flutter |
+| Dados e backend | PostgreSQL, Prisma, Supabase, Redis e SQLite |
+| IA aplicada | Gemini, RAG, embeddings, chamadas de ferramentas e orquestração durável |
+| Desenvolvimento e entrega | Linux, Git, Docker, testes automatizados e GitHub Actions |
+
+## 🔎 `03` · Mais código para explorar
+
+| Projeto | Proposta | Stack |
 | :--- | :--- | :--- |
-| **📱 CEPI Conecta** | A mobile app that supports school communication and academic routines. Includes features for students and guardians. | `Flutter` `Dart` `Supabase` `SQLite` · **Published on Google Play** · Source private |
-| **🧠 ELLOAI** | An AI and automation platform focused on WhatsApp-first business workflows, agent orchestration, and customer operations. | `FastAPI` `Next.js` `PostgreSQL` `Redis` · **Private product** |
-| **🐾 Furry Friends** | A full-stack pet grooming management system with clients, pets, services, and appointments. | `React` `NestJS` `Prisma` `PostgreSQL` · **[Source code](https://github.com/yanmayck/aplicacacao-banho-tosa-fullstak)** |
-| **🎓 Meta Educação** | A web-based educational platform with student and administrator experiences. | `React` `Node.js` `TypeScript` `PostgreSQL` · **[Source code](https://github.com/yanmayck/meta-ensino-digital)** |
+| [Furry Friends](https://github.com/yanmayck/aplicacacao-banho-tosa-fullstak) | Gestão de banho e tosa: clientes, pets, serviços e agendamentos. | React · NestJS · Prisma · PostgreSQL |
+| [Meta Educação](https://github.com/yanmayck/meta-ensino-digital) | Plataforma educacional com experiências para estudantes e administração. | React · Node.js · TypeScript · PostgreSQL |
 
-**A note about private work:** Some repositories stay private because they involve real users, organizational data, or commercial intellectual property. I'm happy to discuss my architectural decisions, engineering challenges, and contributions without exposing sensitive source code.
-
-## Tech I work with
-
-**Languages & frameworks**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-
-**Data & tools**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-## What I'm focused on
-
-- Designing and documenting reliable APIs and backend services.
-- Writing maintainable, testable code and improving CI workflows.
-- Building AI features that connect to real business processes.
-- Growing my computer science fundamentals through algorithms and problem-solving.
+Parte do meu trabalho tem código privado. Posso conversar sobre arquitetura, decisões técnicas e desafios de implementação sem expor dados de usuários ou informações comerciais.
 
 ---
 
+<div align="center">
 
-### Let's build something useful.
+**Da ideia ao deploy, gosto de entender e construir o caminho inteiro.**
 
-**Open to software engineering internship opportunities.**
+[Explore meus repositórios ↗](https://github.com/yanmayck?tab=repositories)
 
-[**Explore my repositories →**](https://github.com/yanmayck?tab=repositories)
+</div>
 
-🇧🇷 Based in Brazil
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06B6D4,50:312E81,100:0D1117&amp;height=110&amp;section=footer" alt="" />
