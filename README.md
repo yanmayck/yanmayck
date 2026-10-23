@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:312E81,100:06B6D4&amp;height=210&amp;section=header&amp;text=YAN%20MAYCK&amp;fontSize=54&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=BACKEND%20%2F%20AI%20%2F%20WEB%20%2F%20MOBILE&amp;descSize=15&amp;descAlignY=60" alt="Yan Mayck — Backend, AI, Web, Mobile" />
+<img width="100%" src="./assets/profile-header.svg" alt="Yan Mayck — Backend &amp; Applied AI" />
 
 **Desenvolvedor de software · Backend · IA aplicada**
 
@@ -29,6 +29,8 @@ Estou no terceiro ano do ensino médio e pretendo cursar Ciência da Computaçã
 
 **Aberto a oportunidades em desenvolvimento de software**, com foco em backend e IA aplicada e experiência na entrega de produtos web e mobile. Tenho interesse em participar de equipes onde possa contribuir com o que já construí e continuar aprendendo.
 
+<img width="100%" src="./assets/divider.svg" alt="" />
+
 ## Ideias que saíram do papel.
 
 <div align="center">
@@ -37,25 +39,25 @@ Estou no terceiro ano do ensino médio e pretendo cursar Ciência da Computaçã
 
 <table>
 <tr>
-<td valign="top" width="50%">
-<p><sub>IA + WHATSAPP · EM PRODUÇÃO</sub></p>
-<p><a href="https://elloai.com.br"><img src="./assets/elloai-logo.svg" width="160" height="160" alt="ELLOAI" /></a></p>
+<td valign="top" width="50%" align="center">
+<p><sub>● EM PRODUÇÃO &nbsp; / &nbsp; IA + WHATSAPP</sub></p>
+<p><a href="https://elloai.com.br"><img src="./assets/elloai-logo.svg" width="180" height="180" alt="ELLOAI" /></a></p>
 <h3>ELLOAI</h3>
 <p><strong>Seu negócio já tem uma história. A ELLOAI aprende com ela.</strong></p>
 <p>Atendente com IA, CRM e automações comerciais para WhatsApp. O Modo Aprendiz transforma conversas anteriores em conhecimento e configuração de atendimento.</p>
 <p><sub>Criei o produto, a identidade visual, a aplicação e a infraestrutura.</sub></p>
 <p><code>Next.js</code> <code>Python</code> <code>Gemini</code><br/><code>PostgreSQL</code> <code>Redis</code> <code>Inngest</code></p>
-<p><a href="https://elloai.com.br"><strong>Conheça o produto ↗</strong></a></p>
+<p><a href="https://elloai.com.br"><img src="https://img.shields.io/badge/CONHEÇA_A_ELLOAI-FBBA16?style=for-the-badge&amp;logoColor=0D1117" alt="Conheça o produto ↗" /></a></p>
 </td>
-<td valign="top" width="50%">
-<p><sub>MOBILE + EDUCAÇÃO · GOOGLE PLAY</sub></p>
-<p><a href="https://play.google.com/store/apps/details?id=com.cepiconecta.app"><img src="./assets/cepi-conecta-astronautas.jpg" width="160" height="160" alt="Astronautas sob a bandeira de Goiás" /></a></p>
+<td valign="top" width="50%" align="center">
+<p><sub>● GOOGLE PLAY &nbsp; / &nbsp; MOBILE + EDUCAÇÃO</sub></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.cepiconecta.app"><img src="./assets/cepi-conecta-astronautas.jpg" width="180" height="180" alt="Astronautas sob a bandeira de Goiás" /></a></p>
 <h3>CEPI Conecta</h3>
 <p><strong>Menos informação espalhada. Mais escola conectada.</strong></p>
 <p>Avisos, turmas, calendário e comunicação com famílias em um aplicativo que construí para minha escola. Offline no app nativo e painel de gestão para computador.</p>
 <p><sub>Publicado no Google Play. Adoção integral pela escola planejada para 2027.</sub></p>
 <p><code>Flutter</code> <code>Dart</code> <code>SQLite</code><br/><code>Supabase</code> <code>PostgreSQL</code></p>
-<p><a href="https://play.google.com/store/apps/details?id=com.cepiconecta.app"><strong>Ver no Google Play ↗</strong></a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.cepiconecta.app"><img src="https://img.shields.io/badge/GOOGLE_PLAY-34D399?style=for-the-badge&amp;logoColor=0D1117" alt="Ver no Google Play ↗" /></a></p>
 </td>
 </tr>
 </table>
@@ -80,29 +82,36 @@ Estou no terceiro ano do ensino médio e pretendo cursar Ciência da Computaçã
 
 </details>
 
+<img width="100%" src="./assets/divider.svg" alt="" />
+
 ## O que uso para construir
 
 <div align="center">
 
+<p><sub><strong>BACKEND & AUTOMAÇÃO</strong></sub></p>
+
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=38BDF8)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=38BDF8)
-![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=38BDF8)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=A78BFA)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=34D399)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![Selenium](https://img.shields.io/badge/Selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=34D399)
+
+<p><sub><strong>IA & DADOS</strong></sub></p>
+
+![Agno](https://img.shields.io/badge/Agno-0D1117?style=for-the-badge&logoColor=A78BFA)
+![Gemini](https://img.shields.io/badge/Gemini-0D1117?style=for-the-badge&logo=googlegemini&logoColor=A78BFA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=38BDF8)
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=FB7185)
+
+<p><sub><strong>INFRA & ENTREGA</strong></sub></p>
+
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=38BDF8)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FFFFFF)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=FBBF24)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=38BDF8)
+
+<p><sub>Também na caixa de ferramentas: TypeScript · React · Tailwind · shadcn/ui · Flutter / Provider<br/>Estudando agora: C++</sub></p>
 
 </div>
-
-
-```text
-BASE       Python · TypeScript · Dart
-CRIAÇÃO    Next.js · React · Flutter / Provider
-DADOS      PostgreSQL · Prisma · Supabase · Redis · SQLite
-IA         Gemini · Agno · RAG · ferramentas · Inngest
-ENTREGA    Linux · Git · Docker · testes automatizados · CI/CD
-ESTUDANDO  C++
-```
 
 <details>
 <summary><strong>🧩 Frameworks e experiência na prática</strong></summary>
@@ -117,16 +126,30 @@ ESTUDANDO  C++
 
 </details>
 
+<img width="100%" src="./assets/divider.svg" alt="" />
+
 ## Mais ideias, mais código
 
-| Projeto | Proposta | Stack |
-| :--- | :--- | :--- |
-| [Furry Friends](https://github.com/yanmayck/aplicacacao-banho-tosa-fullstak) | Gestão de banho e tosa: clientes, pets, serviços e agendamentos. | React · NestJS · Prisma · PostgreSQL |
-| [Meta Educação](https://github.com/yanmayck/meta-ensino-digital) | Plataforma educacional com experiências para estudantes e administração. | React · Node.js · TypeScript · PostgreSQL |
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🐾 Furry Friends</h3>
+<p>Gestão de banho e tosa: clientes, pets e agendamentos.</p>
+<p><sub>React · NestJS · Prisma · PostgreSQL</sub></p>
+<a href="https://github.com/yanmayck/aplicacacao-banho-tosa-fullstak">Explorar código ↗</a>
+</td>
+<td width="50%" valign="top">
+<h3>🎓 Meta Educação</h3>
+<p>Plataforma educacional para estudantes e administração.</p>
+<p><sub>React · Node.js · TypeScript · PostgreSQL</sub></p>
+<a href="https://github.com/yanmayck/meta-ensino-digital">Explorar código ↗</a>
+</td>
+</tr>
+</table>
 
 Parte do meu trabalho tem código privado. Posso conversar sobre arquitetura, decisões técnicas e desafios de implementação sem expor dados de usuários ou informações comerciais.
 
----
+<img width="100%" src="./assets/divider.svg" alt="" />
 
 <div align="center">
 
@@ -135,5 +158,3 @@ Parte do meu trabalho tem código privado. Posso conversar sobre arquitetura, de
 [Explore meus repositórios ↗](https://github.com/yanmayck?tab=repositories)
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06B6D4,50:312E81,100:0D1117&amp;height=110&amp;section=footer" alt="" />

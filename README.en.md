@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:312E81,100:06B6D4&amp;height=210&amp;section=header&amp;text=YAN%20MAYCK&amp;fontSize=54&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=BACKEND%20%2F%20AI%20%2F%20WEB%20%2F%20MOBILE&amp;descSize=15&amp;descAlignY=60" alt="Yan Mayck — Backend, AI, Web, Mobile" />
+<img width="100%" src="./assets/profile-header.svg" alt="Yan Mayck — Backend &amp; Applied AI" />
 
 **Software Developer · Backend · Applied AI**
 
@@ -29,6 +29,8 @@ I'm in my final year of high school and plan to study Computer Science. In the m
 
 **Open to software development opportunities**, with a focus on backend and applied AI, and hands-on experience delivering web and mobile products. I'm interested in joining a team where I can contribute what I've learned through building products and keep growing.
 
+<img width="100%" src="./assets/divider.svg" alt="" />
+
 ## Built. Shipped. Maintained.
 
 <div align="center">
@@ -37,25 +39,25 @@ I'm in my final year of high school and plan to study Computer Science. In the m
 
 <table>
 <tr>
-<td valign="top" width="50%">
-<p><sub>AI + WHATSAPP · IN PRODUCTION</sub></p>
-<p><a href="https://elloai.com.br"><img src="./assets/elloai-logo.svg" width="160" height="160" alt="ELLOAI" /></a></p>
+<td valign="top" width="50%" align="center">
+<p><sub>● IN PRODUCTION &nbsp; / &nbsp; AI + WHATSAPP</sub></p>
+<p><a href="https://elloai.com.br"><img src="./assets/elloai-logo.svg" width="180" height="180" alt="ELLOAI" /></a></p>
 <h3>ELLOAI</h3>
 <p><strong>Your business already has a story. ELLOAI learns from it.</strong></p>
 <p>An AI assistant, CRM and business automations for WhatsApp. Learning Mode turns previous conversations into knowledge and service configuration.</p>
 <p><sub>I built the product, visual identity, application and infrastructure.</sub></p>
 <p><code>Next.js</code> <code>Python</code> <code>Gemini</code><br/><code>PostgreSQL</code> <code>Redis</code> <code>Inngest</code></p>
-<p><a href="https://elloai.com.br"><strong>Explore the product ↗</strong></a></p>
+<p><a href="https://elloai.com.br"><img src="https://img.shields.io/badge/EXPLORE_ELLOAI-FBBA16?style=for-the-badge&amp;logoColor=0D1117" alt="Explore the product ↗" /></a></p>
 </td>
-<td valign="top" width="50%">
-<p><sub>MOBILE + EDUCATION · GOOGLE PLAY</sub></p>
-<p><a href="https://play.google.com/store/apps/details?id=com.cepiconecta.app"><img src="./assets/cepi-conecta-astronautas.jpg" width="160" height="160" alt="Astronauts beneath the flag of Goiás" /></a></p>
+<td valign="top" width="50%" align="center">
+<p><sub>● GOOGLE PLAY &nbsp; / &nbsp; MOBILE + EDUCATION</sub></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.cepiconecta.app"><img src="./assets/cepi-conecta-astronautas.jpg" width="180" height="180" alt="Astronauts beneath the flag of Goiás" /></a></p>
 <h3>CEPI Conecta</h3>
 <p><strong>Less scattered information. A more connected school.</strong></p>
 <p>Announcements, classes, calendars and family communication in an app I built for my school. Native offline support and a desktop administration panel.</p>
 <p><sub>Published on Google Play. Full school adoption planned for 2027.</sub></p>
 <p><code>Flutter</code> <code>Dart</code> <code>SQLite</code><br/><code>Supabase</code> <code>PostgreSQL</code></p>
-<p><a href="https://play.google.com/store/apps/details?id=com.cepiconecta.app"><strong>View on Google Play ↗</strong></a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.cepiconecta.app"><img src="https://img.shields.io/badge/GOOGLE_PLAY-34D399?style=for-the-badge&amp;logoColor=0D1117" alt="View on Google Play ↗" /></a></p>
 </td>
 </tr>
 </table>
@@ -80,29 +82,36 @@ I'm in my final year of high school and plan to study Computer Science. In the m
 
 </details>
 
+<img width="100%" src="./assets/divider.svg" alt="" />
+
 ## What I build with
 
 <div align="center">
 
+<p><sub><strong>BACKEND & AUTOMATION</strong></sub></p>
+
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=38BDF8)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=38BDF8)
-![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=38BDF8)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=A78BFA)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=34D399)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![Selenium](https://img.shields.io/badge/Selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=34D399)
+
+<p><sub><strong>AI & DATA</strong></sub></p>
+
+![Agno](https://img.shields.io/badge/Agno-0D1117?style=for-the-badge&logoColor=A78BFA)
+![Gemini](https://img.shields.io/badge/Gemini-0D1117?style=for-the-badge&logo=googlegemini&logoColor=A78BFA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=38BDF8)
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=FB7185)
+
+<p><sub><strong>INFRA & DELIVERY</strong></sub></p>
+
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=38BDF8)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FFFFFF)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=FBBF24)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=38BDF8)
+
+<p><sub>Also in my toolbox: TypeScript · React · Tailwind · shadcn/ui · Flutter / Provider<br/>Currently learning: C++</sub></p>
 
 </div>
-
-
-```text
-CORE       Python · TypeScript · Dart
-BUILD      Next.js · React · Flutter / Provider
-DATA       PostgreSQL · Prisma · Supabase · Redis · SQLite
-AI         Gemini · Agno · RAG · tool calling · Inngest
-SHIP       Linux · Git · Docker · automated tests · CI/CD
-LEARNING   C++
-```
 
 <details>
 <summary><strong>🧩 Frameworks and hands-on experience</strong></summary>
@@ -117,16 +126,30 @@ LEARNING   C++
 
 </details>
 
+<img width="100%" src="./assets/divider.svg" alt="" />
+
 ## More experiments, more code
 
-| Project | Purpose | Stack |
-| :--- | :--- | :--- |
-| [Furry Friends](https://github.com/yanmayck/aplicacacao-banho-tosa-fullstak) | Pet grooming management: clients, pets, services and appointments. | React · NestJS · Prisma · PostgreSQL |
-| [Meta Educação](https://github.com/yanmayck/meta-ensino-digital) | An educational platform with student and administrator experiences. | React · Node.js · TypeScript · PostgreSQL |
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🐾 Furry Friends</h3>
+<p>Pet grooming management: clients, pets and appointments.</p>
+<p><sub>React · NestJS · Prisma · PostgreSQL</sub></p>
+<a href="https://github.com/yanmayck/aplicacacao-banho-tosa-fullstak">Explore code ↗</a>
+</td>
+<td width="50%" valign="top">
+<h3>🎓 Meta Educação</h3>
+<p>An educational platform for students and administrators.</p>
+<p><sub>React · Node.js · TypeScript · PostgreSQL</sub></p>
+<a href="https://github.com/yanmayck/meta-ensino-digital">Explore code ↗</a>
+</td>
+</tr>
+</table>
 
 Some of my work has private source code. I'm happy to discuss architecture, technical decisions and implementation challenges while respecting user data and business information.
 
----
+<img width="100%" src="./assets/divider.svg" alt="" />
 
 <div align="center">
 
@@ -135,5 +158,3 @@ Some of my work has private source code. I'm happy to discuss architecture, tech
 [Explore my repositories ↗](https://github.com/yanmayck?tab=repositories)
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06B6D4,50:312E81,100:0D1117&amp;height=110&amp;section=footer" alt="" />
