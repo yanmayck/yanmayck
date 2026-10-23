@@ -97,12 +97,24 @@ Estou no terceiro ano do ensino médio e pretendo cursar Ciência da Computaçã
 
 ```text
 BASE       Python · TypeScript · Dart
-CRIAÇÃO    Next.js · React · Flutter
+CRIAÇÃO    Next.js · React · Flutter / Provider
 DADOS      PostgreSQL · Prisma · Supabase · Redis · SQLite
-IA         RAG · embeddings · ferramentas · Inngest
+IA         Gemini · Agno · RAG · ferramentas · Inngest
 ENTREGA    Linux · Git · Docker · testes automatizados · CI/CD
 ESTUDANDO  C++
 ```
+
+<details>
+<summary><strong>🧩 Frameworks e experiência na prática</strong></summary>
+
+- **Backend Python:** FastAPI, FastAPI Users, Pydantic e SQLAlchemy. A ELLOAI começou com backend em FastAPI antes de eu migrar a aplicação principal para Next.js. Também já trabalhei com Django e Flask.
+- **Aplicações web:** Route Handlers, Server Actions, autenticação e webhooks no Next.js; interfaces React com Tailwind CSS e shadcn/ui.
+- **Agentes e IA:** workflows no Agno, roteamento entre agentes especializados e memória em PostgreSQL. Na arquitetura atual da ELLOAI, uso o SDK Google GenAI e Inngest.
+- **Automação:** Selenium para navegador e PyAutoGUI para desktop.
+- **Mobile:** Flutter com Provider, aplicado no CEPI Conecta.
+- **Infraestrutura:** Docker Compose, Nginx como proxy reverso, Linux e automação de entrega.
+
+</details>
 
 ## Mais ideias, mais código
 
