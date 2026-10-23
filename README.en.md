@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 <div align="center">
 
 <img width="100%" src="./assets/profile-header.gif" alt="Yan Mayck — Backend &amp; Applied AI" />
@@ -12,6 +14,26 @@
 
 </div>
 
+<div align="center">
+<p><sub>EXPLORE THE PROFILE</sub></p>
+<p><a href="#projects">🚀 Products</a> &nbsp; / &nbsp; <a href="#toolbox">🧩 Choose a specialty</a> &nbsp; / &nbsp; <a href="#code">⌨️ Public code</a></p>
+</div>
+
+<details>
+<summary><strong>👋 First visit? Get the 30-second version</strong></summary>
+
+**I build products from idea to deployment, with a focus on backend and applied AI.**
+
+- **ELLOAI:** a production WhatsApp AI customer service platform with CRM, business knowledge and human handoff.
+- **CEPI Conecta:** a school communication app published on Google Play, with native offline support.
+- **My foundation:** Python, Next.js APIs, agent orchestration, Docker and CI/CD.
+- **Next chapter:** open to software development opportunities; currently finishing high school and planning to study Computer Science.
+
+[Explore the products ↓](#projects)
+
+</details>
+
+
 <img width="100%" src="./assets/terminal-en.gif" alt="Animated terminal: Python, backend, applied AI and learning C++." />
 
 I'm in my final year of high school and plan to study Computer Science. In the meantime, I build and maintain my own products: an AI customer service platform and a school communication app published on Google Play.
@@ -19,6 +41,8 @@ I'm in my final year of high school and plan to study Computer Science. In the m
 **Open to software development opportunities**, with a focus on backend and applied AI, and hands-on experience delivering web and mobile products. I'm interested in joining a team where I can contribute what I've learned through building products and keep growing.
 
 <img width="100%" src="./assets/divider.svg" alt="" />
+
+<a id="projects"></a>
 
 ## Built. Shipped. Maintained.
 
@@ -54,7 +78,7 @@ I'm in my final year of high school and plan to study Computer Science. In the m
 </table>
 
 <details>
-<summary><strong>⚙️ Under the hood · ELLOAI</strong></summary>
+<summary><strong>🧠 ELLOAI · How do you turn conversations into actions? Click to explore</strong></summary>
 
 - **AI that takes action:** retrieves knowledge, collects information, records sales and moves opportunities, with human approval and handoff paths.
 - **Hybrid search:** combines embeddings with fuzzy name matching using PostgreSQL, pgvector and `pg_trgm`.
@@ -64,7 +88,7 @@ I'm in my final year of high school and plan to study Computer Science. In the m
 </details>
 
 <details>
-<summary><strong>⚙️ Under the hood · CEPI Conecta</strong></summary>
+<summary><strong>📡 CEPI Conecta · What happens when the internet drops? Click to explore</strong></summary>
 
 - **School routines:** feed, announcements, classes, calendar, timetables and notifications.
 - **Families and administration:** guardian–student links, absence documentation and an administration panel adapted for desktop use.
@@ -74,6 +98,8 @@ I'm in my final year of high school and plan to study Computer Science. In the m
 </details>
 
 <img width="100%" src="./assets/divider.svg" alt="" />
+
+<a id="toolbox"></a>
 
 ## What I build with
 
@@ -106,20 +132,63 @@ I'm in my final year of high school and plan to study Computer Science. In the m
 
 </div>
 
-<details>
-<summary><strong>🧩 Frameworks and hands-on experience</strong></summary>
+### Choose what you want to explore
 
-- **Python backend:** FastAPI, FastAPI Users, Pydantic and SQLAlchemy. ELLOAI originally had a FastAPI backend before I moved the main application to Next.js. I've also used Django and Flask.
-- **Web applications:** Next.js Route Handlers, Server Actions, authentication and webhooks; React interfaces with Tailwind CSS and shadcn/ui.
-- **Agents and AI:** experience with LangChain, LangGraph, CrewAI and the OpenAI SDK. Agno workflows and routing between specialized agents, with PostgreSQL-backed memory. In ELLOAI's current architecture, I use the Google GenAI SDK and Inngest.
-- **Automation:** Selenium for browser automation and PyAutoGUI for desktop automation.
-- **Mobile:** Flutter and Provider, applied in CEPI Conecta.
-- **Infrastructure and cloud:** Docker Compose, Nginx as a reverse proxy, Linux, Cloud Run, Compute Engine and Cloud Storage. CI/CD pipelines that build and deploy applications.
-- **How I work:** AI-assisted development, with my strongest focus on backend, AI integration and delivery; frontend and mobile experience comes from building my products.
+Open a specialty to see the tools and where I used them.
+
+<details>
+<summary><strong>🐍 Backend & automation</strong> · Python APIs, web backends and task automation.</summary>
+
+**Python:** FastAPI, FastAPI Users, Pydantic and SQLAlchemy; previous experience with Django and Flask.
+
+**Next.js:** Route Handlers, Server Actions, authentication and webhooks.
+
+**Automation:** Selenium and PyAutoGUI.
+
+**In practice:** ELLOAI started with FastAPI before I moved its main application to Next.js.
+
+</details>
+
+<details>
+<summary><strong>🧠 AI & agents</strong> · From conversational context to tool execution.</summary>
+
+**Frameworks:** Agno, LangChain, LangGraph, CrewAI and the OpenAI SDK.
+
+**In practice:** Agno workflows, routing between specialized agents and PostgreSQL-backed memory in an earlier ELLOAI version.
+
+**Current architecture:** Google GenAI SDK, hybrid RAG and durable Inngest orchestration.
+
+</details>
+
+<details>
+<summary><strong>📱 Web & mobile</strong> · Interfaces that bring the product to users.</summary>
+
+**Web:** React, Next.js, Tailwind CSS and shadcn/ui.
+
+**Mobile:** Flutter, Dart and Provider.
+
+**In practice:** CEPI Conecta combines native SQLite caching and a retry queue with a desktop administration panel.
+
+My main focus is backend and AI; frontend and mobile experience comes from building these products.
+
+</details>
+
+<details>
+<summary><strong>🐳 Infrastructure & delivery</strong> · Build it, deploy it and keep learning.</summary>
+
+**Infrastructure:** Linux, Docker Compose and Nginx as a reverse proxy.
+
+**Cloud:** Cloud Run, Compute Engine and Cloud Storage.
+
+**Delivery:** GitHub Actions pipelines that build and deploy applications.
+
+**Workflow:** Git, Bash, pnpm, uv, Nx, Postman and AI-assisted development.
 
 </details>
 
 <img width="100%" src="./assets/divider.svg" alt="" />
+
+<a id="code"></a>
 
 ## More experiments, more code
 
@@ -149,5 +218,11 @@ Some of my work has private source code. I'm happy to discuss architecture, tech
 <img width="100%" src="./assets/footer-en.gif" alt="Build, ship, learn, repeat." />
 
 [Explore my repositories ↗](https://github.com/yanmayck?tab=repositories)
+
+</div>
+
+<div align="center">
+
+[Back to top ↑](#top)
 
 </div>

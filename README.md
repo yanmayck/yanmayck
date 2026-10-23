@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 <div align="center">
 
 <img width="100%" src="./assets/profile-header.gif" alt="Yan Mayck — Backend &amp; Applied AI" />
@@ -12,6 +14,26 @@
 
 </div>
 
+<div align="center">
+<p><sub>EXPLORE O PERFIL</sub></p>
+<p><a href="#projects">🚀 Produtos</a> &nbsp; / &nbsp; <a href="#toolbox">🧩 Escolha uma especialidade</a> &nbsp; / &nbsp; <a href="#code">⌨️ Código público</a></p>
+</div>
+
+<details>
+<summary><strong>👋 Primeira visita? Me conheça em 30 segundos</strong></summary>
+
+**Construo produtos da ideia ao deploy, com foco em backend e IA aplicada.**
+
+- **ELLOAI:** plataforma de atendimento com IA pelo WhatsApp, em produção, com CRM, conhecimento do negócio e intervenção humana.
+- **CEPI Conecta:** aplicativo de comunicação escolar publicado no Google Play, com suporte offline no app nativo.
+- **Minha base:** Python, APIs com Next.js, orquestração de agentes, Docker e CI/CD.
+- **Próximo capítulo:** aberto a oportunidades em desenvolvimento; concluindo o ensino médio e planejando cursar Ciência da Computação.
+
+[Explorar os produtos ↓](#projects)
+
+</details>
+
+
 <img width="100%" src="./assets/terminal-pt.gif" alt="Terminal animado: Python, backend, IA aplicada e estudos de C++." />
 
 Estou no terceiro ano do ensino médio e pretendo cursar Ciência da Computação. Enquanto isso, desenvolvo e mantenho meus próprios produtos: uma plataforma de atendimento com IA e um aplicativo de comunicação escolar publicado no Google Play.
@@ -19,6 +41,8 @@ Estou no terceiro ano do ensino médio e pretendo cursar Ciência da Computaçã
 **Aberto a oportunidades em desenvolvimento de software**, com foco em backend e IA aplicada e experiência na entrega de produtos web e mobile. Tenho interesse em participar de equipes onde possa contribuir com o que já construí e continuar aprendendo.
 
 <img width="100%" src="./assets/divider.svg" alt="" />
+
+<a id="projects"></a>
 
 ## Ideias que saíram do papel.
 
@@ -54,7 +78,7 @@ Estou no terceiro ano do ensino médio e pretendo cursar Ciência da Computaçã
 </table>
 
 <details>
-<summary><strong>⚙️ Por dentro da engenharia · ELLOAI</strong></summary>
+<summary><strong>🧠 ELLOAI · Como transformar conversas em ações? Clique para explorar</strong></summary>
 
 - **IA com ações:** consulta conhecimento, coleta informações, registra vendas e movimenta oportunidades, com caminhos de aprovação e intervenção humana.
 - **Busca híbrida:** combina embeddings com busca aproximada de nomes usando PostgreSQL, pgvector e `pg_trgm`.
@@ -64,7 +88,7 @@ Estou no terceiro ano do ensino médio e pretendo cursar Ciência da Computaçã
 </details>
 
 <details>
-<summary><strong>⚙️ Por dentro da engenharia · CEPI Conecta</strong></summary>
+<summary><strong>📡 CEPI Conecta · E quando a internet cai? Clique para explorar</strong></summary>
 
 - **Rotina escolar:** mural, avisos, turmas, calendário, horários e notificações.
 - **Famílias e gestão:** vínculo entre responsáveis e alunos, envio de justificativas e painel administrativo adaptado para computador.
@@ -74,6 +98,8 @@ Estou no terceiro ano do ensino médio e pretendo cursar Ciência da Computaçã
 </details>
 
 <img width="100%" src="./assets/divider.svg" alt="" />
+
+<a id="toolbox"></a>
 
 ## O que uso para construir
 
@@ -106,20 +132,63 @@ Estou no terceiro ano do ensino médio e pretendo cursar Ciência da Computaçã
 
 </div>
 
-<details>
-<summary><strong>🧩 Frameworks e experiência na prática</strong></summary>
+### Escolha o que quer explorar
 
-- **Backend Python:** FastAPI, FastAPI Users, Pydantic e SQLAlchemy. A ELLOAI começou com backend em FastAPI antes de eu migrar a aplicação principal para Next.js. Também já trabalhei com Django e Flask.
-- **Aplicações web:** Route Handlers, Server Actions, autenticação e webhooks no Next.js; interfaces React com Tailwind CSS e shadcn/ui.
-- **Agentes e IA:** experiência com LangChain, LangGraph, CrewAI e SDK da OpenAI. Workflows no Agno, roteamento entre agentes especializados e memória em PostgreSQL. Na arquitetura atual da ELLOAI, uso o SDK Google GenAI e Inngest.
-- **Automação:** Selenium para navegador e PyAutoGUI para desktop.
-- **Mobile:** Flutter com Provider, aplicado no CEPI Conecta.
-- **Infraestrutura e cloud:** Docker Compose, Nginx como proxy reverso, Linux, Cloud Run, Compute Engine e Cloud Storage. Pipelines de CI/CD que geram builds e publicam aplicações.
-- **Como trabalho:** desenvolvimento com apoio de IA, com foco maior em backend, integração de IA e entrega; minha experiência em frontend e mobile vem da construção dos meus produtos.
+Abra uma especialidade para ver as ferramentas e onde eu as apliquei.
+
+<details>
+<summary><strong>🐍 Backend & automação</strong> · APIs Python, backend web e automação de tarefas.</summary>
+
+**Python:** FastAPI, FastAPI Users, Pydantic e SQLAlchemy; experiência anterior com Django e Flask.
+
+**Next.js:** Route Handlers, Server Actions, autenticação e webhooks.
+
+**Automação:** Selenium e PyAutoGUI.
+
+**Na prática:** a ELLOAI começou com FastAPI antes de eu migrar a aplicação principal para Next.js.
+
+</details>
+
+<details>
+<summary><strong>🧠 IA & agentes</strong> · Do contexto da conversa à execução de ferramentas.</summary>
+
+**Frameworks:** Agno, LangChain, LangGraph, CrewAI e SDK da OpenAI.
+
+**Na prática:** workflows no Agno, roteamento entre agentes especializados e memória em PostgreSQL em uma versão anterior da ELLOAI.
+
+**Arquitetura atual:** SDK Google GenAI, RAG híbrido e orquestração durável com Inngest.
+
+</details>
+
+<details>
+<summary><strong>📱 Web & mobile</strong> · Interfaces que colocam o produto nas mãos das pessoas.</summary>
+
+**Web:** React, Next.js, Tailwind CSS e shadcn/ui.
+
+**Mobile:** Flutter, Dart e Provider.
+
+**Na prática:** o CEPI Conecta combina cache SQLite e fila de reenvio no app nativo com um painel de administração para computador.
+
+Meu foco maior é backend e IA; a experiência em frontend e mobile vem da construção desses produtos.
+
+</details>
+
+<details>
+<summary><strong>🐳 Infra & entrega</strong> · Construir, colocar no ar e continuar aprendendo.</summary>
+
+**Infraestrutura:** Linux, Docker Compose e Nginx como proxy reverso.
+
+**Cloud:** Cloud Run, Compute Engine e Cloud Storage.
+
+**Entrega:** pipelines no GitHub Actions que geram builds e publicam aplicações.
+
+**Rotina:** Git, Bash, pnpm, uv, Nx, Postman e desenvolvimento com apoio de IA.
 
 </details>
 
 <img width="100%" src="./assets/divider.svg" alt="" />
+
+<a id="code"></a>
 
 ## Mais ideias, mais código
 
@@ -149,5 +218,11 @@ Parte do meu trabalho tem código privado. Posso conversar sobre arquitetura, de
 <img width="100%" src="./assets/footer-pt.gif" alt="Criar, publicar, aprender, repetir." />
 
 [Explore meus repositórios ↗](https://github.com/yanmayck?tab=repositories)
+
+</div>
+
+<div align="center">
+
+[Voltar ao início ↑](#top)
 
 </div>
