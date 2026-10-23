@@ -39,7 +39,8 @@ I'm in my final year of high school and plan to study Computer Science. In the m
 <tr>
 <td valign="top" width="50%">
 <p><sub>AI + WHATSAPP · IN PRODUCTION</sub></p>
-<h3>🧠 ELLOAI</h3>
+<p><a href="https://elloai.com.br"><img src="./assets/elloai-logo.svg" width="88" height="88" alt="ELLOAI" /></a></p>
+<h3>ELLOAI</h3>
 <p><strong>Your business already has a story. ELLOAI learns from it.</strong></p>
 <p>An AI assistant, CRM and business automations for WhatsApp. Learning Mode turns previous conversations into knowledge and service configuration.</p>
 <p><sub>I built the product, visual identity, application and infrastructure.</sub></p>

@@ -39,7 +39,8 @@ Estou no terceiro ano do ensino médio e pretendo cursar Ciência da Computaçã
 <tr>
 <td valign="top" width="50%">
 <p><sub>IA + WHATSAPP · EM PRODUÇÃO</sub></p>
-<h3>🧠 ELLOAI</h3>
+<p><a href="https://elloai.com.br"><img src="./assets/elloai-logo.svg" width="88" height="88" alt="ELLOAI" /></a></p>
+<h3>ELLOAI</h3>
 <p><strong>Seu negócio já tem uma história. A ELLOAI aprende com ela.</strong></p>
 <p>Atendente com IA, CRM e automações comerciais para WhatsApp. O Modo Aprendiz transforma conversas anteriores em conhecimento e configuração de atendimento.</p>
 <p><sub>Criei o produto, a identidade visual, a aplicação e a infraestrutura.</sub></p>
