@@ -17,16 +17,18 @@ Esta sessão conseguiu enviar arquivos por Git, mas a consulta à API de configu
 
 Na raiz do checkout existente, execute `python -m http.server 8765 --bind 127.0.0.1`. O site não tem dependências de instalação. O terminal é uma simulação local: só aceita os comandos documentados e não executa shell, faz requisições ou envia entradas a servidores.
 
-## Recursos
+## Interface
 
-- Filtros por tipo de projeto.
-- Painéis modais de engenharia com foco e fechamento por Escape.
-- Especialidades em abas acessíveis por teclado.
-- Terminal com comandos `help`, `whoami`, `projects`, `stack`, `focus`, `clear` e histórico com setas.
-- Alternância PT/EN.
-- Animações de órbita, flutuação, faixa contínua e brilho que acompanha o ponteiro.
-- Layout responsivo e respeito a `prefers-reduced-motion`.
+A página tem apenas o header e o terminal. Projetos, tecnologias e links aparecem dentro do histórico. O visitante pode digitar ou clicar nos comandos sugeridos.
+
+- `help`, `sobre` / `about`, `projetos` / `projects`, `stack`, `contato` / `contact`.
+- `ls`, `pwd`, `cd elloai`, `cd cepi`, `cd ..`, `cd ~`.
+- `cat about.txt`, `cat stack.txt`, `cat README.md`.
+- Histórico com ↑/↓, autocomplete com Tab, limpeza com `clear` ou Ctrl+L.
+- Alternância PT/EN, inclusive dentro de um projeto.
+- Sem dependências, execução de shell, requisições feitas pelo terminal ou coleta de dados.
+- Layout responsivo e animações que respeitam `prefers-reduced-motion`.
 
 ## Validação realizada
 
-Chromium/Playwright: filtros, abertura e fechamento dos dois projetos, Escape, navegação por teclado nas abas, comandos e histórico do terminal, inserção segura de texto, troca de idioma, largura de 390 px sem rolagem horizontal e preferência de movimento reduzido. Nenhum erro JavaScript observado. Os testes de navegador foram executados nesta sessão; o deploy público ainda precisa ser confirmado.
+Chromium/Playwright: navegação clicável, diretórios e prompt, conteúdo dos dois projetos, comandos e aliases, histórico, autocomplete, troca de idioma dentro de um projeto, limpeza por comando e Ctrl+L, entrada de texto sem execução de HTML, largura de 390 px sem rolagem horizontal e preferência de movimento reduzido. Nenhum erro JavaScript observado. Os testes de navegador foram executados nesta sessão; o deploy público ainda precisa ser confirmado.

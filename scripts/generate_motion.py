@@ -22,20 +22,20 @@ def header():
     d=ImageDraw.Draw(base)
     for x in range(0,w,40):d.line((x,0,x,h),fill='#1A2032')
     for y in range(0,h,40):d.line((0,y,w,y),fill='#1A2032')
-    d.text((44,30),'DEVELOPER / BUILDER / CURIOUS MIND',font=font(14),fill='#22D3EE')
+    d.text((44,30),'YANMAYCK / SOFTWARE DEVELOPER',font=font(14),fill='#22D3EE')
     d.text((40,76),'Yan Mayck',font=font(72,True),fill='#F8FAFC')
     d.text((44,178),'BACKEND & APPLIED AI',font=font(23,True),fill='#C4B5FD')
-    d.text((44,230),'GOIÁS, BRASIL / PYTHON FIRST',font=font(15),fill='#94A3B8')
+    d.text((44,230),'GOIÁS, BRASIL / PYTHON / NEXT.JS',font=font(15),fill='#94A3B8')
     d.rounded_rectangle((772,56,1150,246),radius=14,fill='#090D18',outline='#3B3B60',width=2)
     d.line((773,94,1149,94),fill='#353553')
     for x,c in [(795,'#FB7185'),(815,'#FBBF24'),(835,'#34D399')]:d.ellipse((x-5,70,x+5,80),fill=c)
     d.text((794,112),'~/yanmayck',font=font(17),fill='#94A3B8')
-    d.text((814,205),'always building',font=font(16),fill='#34D399')
+    d.text((814,205),'~/projects',font=font(16),fill='#34D399')
     frames=[]
     for i in range(120):
         im=base.copy();d=ImageDraw.Draw(im)
         phase=i%40
-        command=['build --with-curiosity','ship --to-production','learn --repeat'][i//40]
+        command=['python main.py','git push origin main','cd ~/projects'][i//40]
         visible=command[:min(len(command),int(phase*0.8))]
         d.text((794,152),'$ '+visible,font=font(17),fill='#22D3EE')
         if phase%10<6:
@@ -61,7 +61,7 @@ def header():
     save(frames,'profile-header.gif')
 
 def terminal(en):
-    lines=(['$ whoami','Developer in Goiás, Brazil. Python first.','$ cat focus.txt','Backend / applied AI / products in production','$ cat learning.txt','C++ / computer science / keep building'] if en else ['$ whoami','Dev em Goiás. Python na base. Curiosidade sempre.','$ cat focus.txt','Backend / IA aplicada / produtos em produção','$ cat learning.txt','C++ / Ciência da Computação / continuar construindo'])
+    lines=(['$ whoami','Developer in Goiás, Brazil. Python first.','$ cat focus.txt','Backend / applied AI / products in production','$ cat learning.txt','C++ / planning to study Computer Science'] if en else ['$ whoami','Sou o Yan, de Goiás. Programo em Python.','$ cat focus.txt','Backend / IA aplicada / produtos em produção','$ cat learning.txt','C++ / quero cursar Ciência da Computação'])
     base=Image.new('RGB',(1000,262),'#0D1117');d=ImageDraw.Draw(base)
     d.rounded_rectangle((1,1,998,260),radius=15,outline='#30394E',width=2)
     d.line((2,38,997,38),fill='#30394E')

@@ -6,8 +6,6 @@
 
 **Desenvolvedor de software · Backend · IA aplicada**
 
-
-
 [![English](https://img.shields.io/badge/Read_in-English-38BDF8?style=for-the-badge)](./README.en.md)
 [![ELLOAI](https://img.shields.io/badge/Conheça-ELLOAI-A78BFA?style=for-the-badge)](https://elloai.com.br)
 [![CEPI Conecta](https://img.shields.io/badge/Google_Play-CEPI_Conecta-34D399?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.cepiconecta.app)
@@ -15,41 +13,25 @@
 </div>
 
 <div align="center">
-<p><sub>EXPLORE O PERFIL</sub></p>
-<p><a href="#projects">🚀 Produtos</a> &nbsp; / &nbsp; <a href="#toolbox">🧩 Escolha uma especialidade</a> &nbsp; / &nbsp; <a href="#code">⌨️ Código público</a></p>
+<p><a href="#projects">🚀 Produtos</a> &nbsp; / &nbsp; <a href="#toolbox">🧩 Tecnologias</a> &nbsp; / &nbsp; <a href="#code">⌨️ Código público</a></p>
 </div>
-
-<details>
-<summary><strong>👋 Primeira visita? Me conheça em 30 segundos</strong></summary>
-
-**Construo produtos da ideia ao deploy, com foco em backend e IA aplicada.**
-
-- **ELLOAI:** plataforma de atendimento com IA pelo WhatsApp, em produção, com CRM, conhecimento do negócio e intervenção humana.
-- **CEPI Conecta:** aplicativo de comunicação escolar publicado no Google Play, com suporte offline no app nativo.
-- **Minha base:** Python, APIs com Next.js, orquestração de agentes, Docker e CI/CD.
-- **Próximo capítulo:** aberto a oportunidades em desenvolvimento; concluindo o ensino médio e planejando cursar Ciência da Computação.
-
-[Explorar os produtos ↓](#projects)
-
-</details>
-
 
 <img width="100%" src="./assets/terminal-pt.gif" alt="Terminal animado: Python, backend, IA aplicada e estudos de C++." />
 
-Estou no terceiro ano do ensino médio e pretendo cursar Ciência da Computação. Enquanto isso, desenvolvo e mantenho meus próprios produtos: uma plataforma de atendimento com IA e um aplicativo de comunicação escolar publicado no Google Play.
+Sou o Yan, de Goiás. Programo principalmente em Python, gosto de backend e de trabalhar com agentes de IA. Estou no terceiro ano do ensino médio e pretendo cursar Ciência da Computação.
 
-**Aberto a oportunidades em desenvolvimento de software**, com foco em backend e IA aplicada e experiência na entrega de produtos web e mobile. Tenho interesse em participar de equipes onde possa contribuir com o que já construí e continuar aprendendo.
+Criei a ELLOAI e o CEPI Conecta, cuidando também do deploy e da manutenção. **Estou aberto a oportunidades em desenvolvimento.**
 
 <img width="100%" src="./assets/divider.svg" alt="" />
 
-> **Versão interativa:** filtros de projetos, painéis de engenharia e um terminal que aceita comandos. [Ver código do site](./index.html) · [Publicar no GitHub Pages](./docs/portfolio.md).
+[Site · código-fonte](./index.html)
 
 <a id="projects"></a>
 
-## Ideias que saíram do papel.
+## Meus projetos
 
 <div align="center">
-<p>Dois produtos. Do primeiro código à operação em produção.</p>
+<p>São os dois projetos a que mais me dedico.</p>
 </div>
 
 <table>
@@ -59,9 +41,9 @@ Estou no terceiro ano do ensino médio e pretendo cursar Ciência da Computaçã
 <p><a href="https://elloai.com.br"><img src="./assets/elloai-logo.svg" width="180" height="180" alt="ELLOAI" /></a></p>
 <h3>ELLOAI</h3>
 <p><img width="100%" src="./assets/elloai-flow.gif" alt="WhatsApp, IA, CRM e intervenção humana" /></p>
-<p><strong>Seu negócio já tem uma história. A ELLOAI aprende com ela.</strong></p>
+<p><strong>Uma atendente com IA para WhatsApp.</strong></p>
 <p>Atendente com IA, CRM e automações comerciais para WhatsApp. O Modo Aprendiz transforma conversas anteriores em conhecimento e configuração de atendimento.</p>
-<p><sub>Criei o produto, a identidade visual, a aplicação e a infraestrutura.</sub></p>
+<p><sub>Fiz tudo, do backend à logo. É o projeto de que mais me orgulho.</sub></p>
 <p><code>Next.js</code> <code>Python</code> <code>Gemini</code><br/><code>PostgreSQL</code> <code>Redis</code> <code>Inngest</code></p>
 <p><a href="https://elloai.com.br"><img src="https://img.shields.io/badge/CONHEÇA_A_ELLOAI-FBBA16?style=for-the-badge&amp;logoColor=0D1117" alt="Conheça o produto ↗" /></a></p>
 </td>
@@ -70,7 +52,7 @@ Estou no terceiro ano do ensino médio e pretendo cursar Ciência da Computaçã
 <p><a href="https://play.google.com/store/apps/details?id=com.cepiconecta.app"><img src="./assets/cepi-conecta-astronautas.jpg" width="180" height="180" alt="Astronautas sob a bandeira de Goiás" /></a></p>
 <h3>CEPI Conecta</h3>
 <p><img width="100%" src="./assets/cepi-flow.gif" alt="Aplicativo, SQLite, sincronização e nuvem" /></p>
-<p><strong>Menos informação espalhada. Mais escola conectada.</strong></p>
+<p><strong>O aplicativo que fiz para minha escola.</strong></p>
 <p>Avisos, turmas, calendário e comunicação com famílias em um aplicativo que construí para minha escola. Offline no app nativo e painel de gestão para computador.</p>
 <p><sub>Publicado no Google Play. Adoção integral pela escola planejada para 2027.</sub></p>
 <p><code>Flutter</code> <code>Dart</code> <code>SQLite</code><br/><code>Supabase</code> <code>PostgreSQL</code></p>
@@ -80,7 +62,7 @@ Estou no terceiro ano do ensino médio e pretendo cursar Ciência da Computaçã
 </table>
 
 <details>
-<summary><strong>🧠 ELLOAI · Como transformar conversas em ações? Clique para explorar</strong></summary>
+<summary><strong>ELLOAI · Detalhes técnicos</strong></summary>
 
 - **IA com ações:** consulta conhecimento, coleta informações, registra vendas e movimenta oportunidades, com caminhos de aprovação e intervenção humana.
 - **Busca híbrida:** combina embeddings com busca aproximada de nomes usando PostgreSQL, pgvector e `pg_trgm`.
@@ -90,7 +72,7 @@ Estou no terceiro ano do ensino médio e pretendo cursar Ciência da Computaçã
 </details>
 
 <details>
-<summary><strong>📡 CEPI Conecta · E quando a internet cai? Clique para explorar</strong></summary>
+<summary><strong>CEPI Conecta · Detalhes técnicos</strong></summary>
 
 - **Rotina escolar:** mural, avisos, turmas, calendário, horários e notificações.
 - **Famílias e gestão:** vínculo entre responsáveis e alunos, envio de justificativas e painel administrativo adaptado para computador.
@@ -103,7 +85,7 @@ Estou no terceiro ano do ensino médio e pretendo cursar Ciência da Computaçã
 
 <a id="toolbox"></a>
 
-## O que uso para construir
+## O que eu uso
 
 <img width="100%" src="./assets/stack-motion.gif" alt="Python · Next.js · Agno · PostgreSQL · Docker · Cloud" />
 
@@ -134,9 +116,7 @@ Estou no terceiro ano do ensino médio e pretendo cursar Ciência da Computaçã
 
 </div>
 
-### Escolha o que quer explorar
-
-Abra uma especialidade para ver as ferramentas e onde eu as apliquei.
+### Mais sobre a stack
 
 <details>
 <summary><strong>🐍 Backend & automação</strong> · APIs Python, backend web e automação de tarefas.</summary>
@@ -152,7 +132,7 @@ Abra uma especialidade para ver as ferramentas e onde eu as apliquei.
 </details>
 
 <details>
-<summary><strong>🧠 IA & agentes</strong> · Do contexto da conversa à execução de ferramentas.</summary>
+<summary><strong>🧠 IA & agentes</strong> · Agentes, memória e ferramentas.</summary>
 
 **Frameworks:** Agno, LangChain, LangGraph, CrewAI e SDK da OpenAI.
 
@@ -163,7 +143,7 @@ Abra uma especialidade para ver as ferramentas e onde eu as apliquei.
 </details>
 
 <details>
-<summary><strong>📱 Web & mobile</strong> · Interfaces que colocam o produto nas mãos das pessoas.</summary>
+<summary><strong>📱 Web & mobile</strong> · React e Flutter.</summary>
 
 **Web:** React, Next.js, Tailwind CSS e shadcn/ui.
 
@@ -176,7 +156,7 @@ Meu foco maior é backend e IA; a experiência em frontend e mobile vem da const
 </details>
 
 <details>
-<summary><strong>🐳 Infra & entrega</strong> · Construir, colocar no ar e continuar aprendendo.</summary>
+<summary><strong>🐳 Infra & entrega</strong> · Docker, Linux e deploy.</summary>
 
 **Infraestrutura:** Linux, Docker Compose e Nginx como proxy reverso.
 
@@ -192,7 +172,7 @@ Meu foco maior é backend e IA; a experiência em frontend e mobile vem da const
 
 <a id="code"></a>
 
-## Mais ideias, mais código
+## Outros repositórios
 
 <table>
 <tr>
@@ -211,13 +191,13 @@ Meu foco maior é backend e IA; a experiência em frontend e mobile vem da const
 </tr>
 </table>
 
-Parte do meu trabalho tem código privado. Posso conversar sobre arquitetura, decisões técnicas e desafios de implementação sem expor dados de usuários ou informações comerciais.
+O código da ELLOAI e do CEPI Conecta é privado. Os repositórios acima estão disponíveis para explorar.
 
 <img width="100%" src="./assets/divider.svg" alt="" />
 
 <div align="center">
 
-<img width="100%" src="./assets/footer-pt.gif" alt="Criar, publicar, aprender, repetir." />
+<img width="100%" src="./assets/footer-pt.gif" alt="Yan Mayck · Backend e IA" />
 
 [Explore meus repositórios ↗](https://github.com/yanmayck?tab=repositories)
 

@@ -69,9 +69,9 @@ def footer(en):
         im=Image.new('RGB',(w,h),'#0D1117');d=ImageDraw.Draw(im)
         for x in range(0,w,44):d.line((x,0,x,h),fill='#151D2D')
         for y in range(0,h,35):d.line((0,y,w,y),fill='#151D2D')
-        title='BUILD. SHIP. LEARN. REPEAT.' if en else 'CRIAR. PUBLICAR. APRENDER. REPETIR.'
+        title='YAN MAYCK / BACKEND & AI' if en else 'YAN MAYCK / BACKEND E IA'
         tw=d.textlength(title,font=font(26));d.text(((w-tw)/2,30),title,font=font(26),fill='#E2E8F0')
-        subtitle='The next idea starts with the next commit.' if en else 'A próxima ideia começa no próximo commit.'
+        subtitle='Goiás, Brazil / Python / Next.js / Agno' if en else 'Goiás, Brasil / Python / Next.js / Agno'
         tw=d.textlength(subtitle,font=font(15));d.text(((w-tw)/2,76),subtitle,font=font(15),fill='#94A3B8')
         points=[]
         for k in range(241):

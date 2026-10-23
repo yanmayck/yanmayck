@@ -6,8 +6,6 @@
 
 **Software Developer · Backend · Applied AI**
 
-
-
 [![Português](https://img.shields.io/badge/Ler_em-Português-38BDF8?style=for-the-badge)](./README.md)
 [![ELLOAI](https://img.shields.io/badge/Explore-ELLOAI-A78BFA?style=for-the-badge)](https://elloai.com.br)
 [![CEPI Conecta](https://img.shields.io/badge/Google_Play-CEPI_Conecta-34D399?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.cepiconecta.app)
@@ -15,41 +13,25 @@
 </div>
 
 <div align="center">
-<p><sub>EXPLORE THE PROFILE</sub></p>
-<p><a href="#projects">🚀 Products</a> &nbsp; / &nbsp; <a href="#toolbox">🧩 Choose a specialty</a> &nbsp; / &nbsp; <a href="#code">⌨️ Public code</a></p>
+<p><a href="#projects">🚀 Products</a> &nbsp; / &nbsp; <a href="#toolbox">🧩 Technologies</a> &nbsp; / &nbsp; <a href="#code">⌨️ Public code</a></p>
 </div>
-
-<details>
-<summary><strong>👋 First visit? Get the 30-second version</strong></summary>
-
-**I build products from idea to deployment, with a focus on backend and applied AI.**
-
-- **ELLOAI:** a production WhatsApp AI customer service platform with CRM, business knowledge and human handoff.
-- **CEPI Conecta:** a school communication app published on Google Play, with native offline support.
-- **My foundation:** Python, Next.js APIs, agent orchestration, Docker and CI/CD.
-- **Next chapter:** open to software development opportunities; currently finishing high school and planning to study Computer Science.
-
-[Explore the products ↓](#projects)
-
-</details>
-
 
 <img width="100%" src="./assets/terminal-en.gif" alt="Animated terminal: Python, backend, applied AI and learning C++." />
 
-I'm in my final year of high school and plan to study Computer Science. In the meantime, I build and maintain my own products: an AI customer service platform and a school communication app published on Google Play.
+I'm Yan, from Goiás, Brazil. Python is my main language, and I like backend development and working with AI agents. I'm in my final year of high school and plan to study Computer Science.
 
-**Open to software development opportunities**, with a focus on backend and applied AI, and hands-on experience delivering web and mobile products. I'm interested in joining a team where I can contribute what I've learned through building products and keep growing.
+I built ELLOAI and CEPI Conecta, including deployment and maintenance. **Open to software development opportunities.**
 
 <img width="100%" src="./assets/divider.svg" alt="" />
 
-> **Interactive edition:** project filters, engineering panels and a working terminal simulation. [Explore the source](./index.html) · [GitHub Pages setup](./docs/portfolio.md).
+[Website · source code](./index.html)
 
 <a id="projects"></a>
 
-## Built. Shipped. Maintained.
+## My projects
 
 <div align="center">
-<p>Two products. From the first line of code to production.</p>
+<p>These are the two projects I spend the most time on.</p>
 </div>
 
 <table>
@@ -59,9 +41,9 @@ I'm in my final year of high school and plan to study Computer Science. In the m
 <p><a href="https://elloai.com.br"><img src="./assets/elloai-logo.svg" width="180" height="180" alt="ELLOAI" /></a></p>
 <h3>ELLOAI</h3>
 <p><img width="100%" src="./assets/elloai-flow.gif" alt="WhatsApp, AI, CRM and human handoff" /></p>
-<p><strong>Your business already has a story. ELLOAI learns from it.</strong></p>
+<p><strong>An AI customer service assistant for WhatsApp.</strong></p>
 <p>An AI assistant, CRM and business automations for WhatsApp. Learning Mode turns previous conversations into knowledge and service configuration.</p>
-<p><sub>I built the product, visual identity, application and infrastructure.</sub></p>
+<p><sub>I built everything, from the backend to the logo. It is the project I'm most proud of.</sub></p>
 <p><code>Next.js</code> <code>Python</code> <code>Gemini</code><br/><code>PostgreSQL</code> <code>Redis</code> <code>Inngest</code></p>
 <p><a href="https://elloai.com.br"><img src="https://img.shields.io/badge/EXPLORE_ELLOAI-FBBA16?style=for-the-badge&amp;logoColor=0D1117" alt="Explore the product ↗" /></a></p>
 </td>
@@ -70,7 +52,7 @@ I'm in my final year of high school and plan to study Computer Science. In the m
 <p><a href="https://play.google.com/store/apps/details?id=com.cepiconecta.app"><img src="./assets/cepi-conecta-astronautas.jpg" width="180" height="180" alt="Astronauts beneath the flag of Goiás" /></a></p>
 <h3>CEPI Conecta</h3>
 <p><img width="100%" src="./assets/cepi-flow.gif" alt="App, SQLite, synchronization and cloud" /></p>
-<p><strong>Less scattered information. A more connected school.</strong></p>
+<p><strong>The app I built for my school.</strong></p>
 <p>Announcements, classes, calendars and family communication in an app I built for my school. Native offline support and a desktop administration panel.</p>
 <p><sub>Published on Google Play. Full school adoption planned for 2027.</sub></p>
 <p><code>Flutter</code> <code>Dart</code> <code>SQLite</code><br/><code>Supabase</code> <code>PostgreSQL</code></p>
@@ -80,7 +62,7 @@ I'm in my final year of high school and plan to study Computer Science. In the m
 </table>
 
 <details>
-<summary><strong>🧠 ELLOAI · How do you turn conversations into actions? Click to explore</strong></summary>
+<summary><strong>ELLOAI · Technical details</strong></summary>
 
 - **AI that takes action:** retrieves knowledge, collects information, records sales and moves opportunities, with human approval and handoff paths.
 - **Hybrid search:** combines embeddings with fuzzy name matching using PostgreSQL, pgvector and `pg_trgm`.
@@ -90,7 +72,7 @@ I'm in my final year of high school and plan to study Computer Science. In the m
 </details>
 
 <details>
-<summary><strong>📡 CEPI Conecta · What happens when the internet drops? Click to explore</strong></summary>
+<summary><strong>CEPI Conecta · Technical details</strong></summary>
 
 - **School routines:** feed, announcements, classes, calendar, timetables and notifications.
 - **Families and administration:** guardian–student links, absence documentation and an administration panel adapted for desktop use.
@@ -103,7 +85,7 @@ I'm in my final year of high school and plan to study Computer Science. In the m
 
 <a id="toolbox"></a>
 
-## What I build with
+## What I use
 
 <img width="100%" src="./assets/stack-motion.gif" alt="Python · Next.js · Agno · PostgreSQL · Docker · Cloud" />
 
@@ -134,9 +116,7 @@ I'm in my final year of high school and plan to study Computer Science. In the m
 
 </div>
 
-### Choose what you want to explore
-
-Open a specialty to see the tools and where I used them.
+### More about the stack
 
 <details>
 <summary><strong>🐍 Backend & automation</strong> · Python APIs, web backends and task automation.</summary>
@@ -152,7 +132,7 @@ Open a specialty to see the tools and where I used them.
 </details>
 
 <details>
-<summary><strong>🧠 AI & agents</strong> · From conversational context to tool execution.</summary>
+<summary><strong>🧠 AI & agents</strong> · Agents, memory and tools.</summary>
 
 **Frameworks:** Agno, LangChain, LangGraph, CrewAI and the OpenAI SDK.
 
@@ -163,7 +143,7 @@ Open a specialty to see the tools and where I used them.
 </details>
 
 <details>
-<summary><strong>📱 Web & mobile</strong> · Interfaces that bring the product to users.</summary>
+<summary><strong>📱 Web & mobile</strong> · React and Flutter.</summary>
 
 **Web:** React, Next.js, Tailwind CSS and shadcn/ui.
 
@@ -176,7 +156,7 @@ My main focus is backend and AI; frontend and mobile experience comes from build
 </details>
 
 <details>
-<summary><strong>🐳 Infrastructure & delivery</strong> · Build it, deploy it and keep learning.</summary>
+<summary><strong>🐳 Infrastructure & delivery</strong> · Docker, Linux and deployment.</summary>
 
 **Infrastructure:** Linux, Docker Compose and Nginx as a reverse proxy.
 
@@ -192,7 +172,7 @@ My main focus is backend and AI; frontend and mobile experience comes from build
 
 <a id="code"></a>
 
-## More experiments, more code
+## Other repositories
 
 <table>
 <tr>
@@ -211,13 +191,13 @@ My main focus is backend and AI; frontend and mobile experience comes from build
 </tr>
 </table>
 
-Some of my work has private source code. I'm happy to discuss architecture, technical decisions and implementation challenges while respecting user data and business information.
+ELLOAI and CEPI Conecta have private source code. The repositories above are available to explore.
 
 <img width="100%" src="./assets/divider.svg" alt="" />
 
 <div align="center">
 
-<img width="100%" src="./assets/footer-en.gif" alt="Build, ship, learn, repeat." />
+<img width="100%" src="./assets/footer-en.gif" alt="Yan Mayck · Backend and AI" />
 
 [Explore my repositories ↗](https://github.com/yanmayck?tab=repositories)
 
